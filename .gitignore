@@ -202,7 +202,7 @@ local.properties
 /.idea
 /My_Programming_Menu.iml
 /src/Python_Bootcamp/basicprograms/.project
-/src/Python_Bootcamp/basics/.project
+/src/Python_Bootcamp/datatypes/.project
 /src/Python_Bootcamp/commandlinearguments/.project
 /src/Python_Bootcamp/controlstatements/.project
 /src/Python_Bootcamp/dateandtime/.project
@@ -223,3 +223,4 @@ local.properties
 /src/Python_Bootcamp/networking/python.html
 /src/Python_Bootcamp/networking/python.png
 /src/Python_Bootcamp/exceptionhandling/myfile
+/src/Python_Bootcamp/datatypes/.project

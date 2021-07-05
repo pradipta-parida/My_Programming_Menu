@@ -1,3 +1,10 @@
+"""
+Dictionary is a map.
+can be used to store key-value pairs
+
+"""
+
+
 dict1={1:"john",2:"bob",3:"bill"}
 print(dict1)
 
