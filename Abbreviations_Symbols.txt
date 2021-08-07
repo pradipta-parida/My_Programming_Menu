@@ -1,0 +1,15 @@
+//The following are the some of the frequently used Abbreviations/Notions/Symbols that developers face everyday.
+
+     :       ----> Colon
+
+     ,       ----> Comma
+
+     ''      ----> Single-Quote
+
+     ""      ----> Double-Quote
+
+     &       ----> Ampersand
+
+     *       ----> Asterisks
+
+     #
