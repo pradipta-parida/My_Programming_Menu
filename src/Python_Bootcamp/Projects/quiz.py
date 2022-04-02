@@ -6,8 +6,8 @@ print(playing)
 if playing.lower() != "yes":
     quit()
 
-# lower() --> actually converts any case letters to lower case
-# upper() --> actually converts any case letters to upper case
+# lower() --> method actually converts any case letters to lower case
+# upper() --> method actually converts any case letters to upper case
 
 print("Okay! Lets play :) ")
 score = 0
