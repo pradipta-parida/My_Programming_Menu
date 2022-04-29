@@ -1,0 +1,1 @@
+* "package.json" file contains all of the information which is required for your application to work like dependencies
