@@ -1,8 +1,8 @@
 For example,
 When you open the app the data constantly changes, the stock goes up and down every second.The data 
-needs to be refreshed every second. This is possible thanks to Websockwet!
+needs to be refreshed every second. This is possible thanks to Websocket!
 
-Websockwet creates a bidirectional communication!
+Websocket creates a bidirectional communication!
 
  _________________________ 
 |    app<--------> server |
