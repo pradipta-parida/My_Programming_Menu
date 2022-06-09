@@ -1,0 +1,16 @@
+> TensorFlow is a open-source library released in 2015 by Google Brain team for building machine learning 
+  and deep learning models.
+
+> Its based on python programming language and performs numerical computations using data flow graphs to build
+  models.
+
+> Features of TensorFlow;
+    * works efficiently with multi-dimensional arrays.
+    *provides scalability of computation across machines and large data sets.
+    *supports fast debugging and model building.
+    *has a large community and provides TensorBoard to visualize the model.
+
+> TensorFlow Applications in Real-World;
+    FaceDetection, Language Translation,Fraud Detection,Video Detection etc..
+
+> 

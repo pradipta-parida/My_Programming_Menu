@@ -1,0 +1,12 @@
+> A Data can be classified into Bigdata under 5V's;
+    Volume , Velocity , Variety, Veracity, Value
+
+> Example: Considring a Healthcare Industry
+
+        Volume- Hospital,clinics around the world generate massive amounts of data(2314 Exabytes) anually.
+        Velocity- In the form of patient records, test results. All these data are generated at a very high speed.
+        Variety- Data in the form of structured data(excel records), semi-structured(log files), unstructured data(X-ray images).
+        Veracity- Accuracy, Trustworthiness
+        Value-
+
+> 

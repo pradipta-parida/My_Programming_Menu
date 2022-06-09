@@ -1,0 +1,12 @@
+> HTML = "Hypertext Markup Language".Its a front-end technology.Creates visual elements of a web page.This process is called rendering.
+        so, HTML is used to render visuals, while javascript used to manage information.They both work together.
+
+HTML Syntax
+---------------------------
+
+<button>Press Me</button>                    --->     <button></button> are called tags.
+                                                        |           |
+                                                        V           V
+                                                    open tag       Close tag
+
+Press Me                                     --->     Content/label

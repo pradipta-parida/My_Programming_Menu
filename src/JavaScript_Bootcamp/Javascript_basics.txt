@@ -1,0 +1,2 @@
+> Variable- used to hold data in a systems memory which can later be used by a program .
+

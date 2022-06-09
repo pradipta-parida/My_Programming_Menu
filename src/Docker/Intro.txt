@@ -1,0 +1,33 @@
+Docker Steps
+--------------------------------------------------------------------------------------------------------
+1)	First, clone a repository.The "Getting Started project" is a simple GitHub repository which contains everything you need to 	build an image and run it as a container.Clone the repository by running Git in a container.
+
+	docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+
+	docker cp repo:/git/getting-started/ .
+
+	You can also type the command directly in a command line interface(CLI).
+
+2)  Now, build the image.
+	A Docker image is a private file system just for your container. It provides all the files and code your container needs.
+
+	cd getting-started
+
+	docker build -t docker101tutorial .
+
+3)  Run your first container.
+    Start a container based on the image you built in the previous step. Running a container launches your application with private resources, securely isolated from the rest of your machine.
+
+    docker run -d -p 80:80 --name docker-tutorial docker101tutorial
+
+4)  Now save and share your image.
+    Save and share your image on Docker Hub to enable other users to easily download and run the image on any destination machine.
+
+    docker tag docker101tutorial 7894590606/docker101tutorial
+
+    docker push 7894590606/docker101tutorial
+-----------------------------------------------------------------------------------------------------------------------------------
+To Verify installation of docker, go to cli type -->  docker (or) docker --version
+
+To check if docker daemon is running, go to cli type --> docker ps 
+
