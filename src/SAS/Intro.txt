@@ -1,0 +1,23 @@
+> SAS- Statistical Analysis System. It is Widely used in field of data science.
+
+> What is SAS?
+ 
+  * It is an analytical tool, where we can perform various analytical operations like Time-Series Analysis,
+    Predective Modelling, Data Management.
+
+  * It is also a visualization tool with the help of SAS, we can create beautiful graphs and also build stunning
+    dashboards to represent/analyze data. 
+
+> SAS applications in real world;
+  
+  * Finance- credit score tracking, fraud detection
+  * Health-Care- analyzing disease before it becomes reality,patient care by analyzing datas
+  * Automobile- warranty claims, service part optimizations
+
+> SAS Program structure has two major componenets;
+  
+  *Data Step- used to create and manage data
+  
+  *Proc Step- used to implement different procedures for analyzing and visualizing the data
+  
+

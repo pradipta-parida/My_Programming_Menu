@@ -1,0 +1,78 @@
+Git Bash
+~~~~~~~~~~
+> Install Git in your system.
+
+> git Bash ---> Right-click and click on Git Bash in a repository/project. This will open up the bash terminal.
+
+> git clone <Repository_URL> --->  This command will clone/copy the Github/Bitbucket repo into your local system.
+                                   Usually, cloning is done from the Master Branch of any repo.
+
+> git status ---> In Bash terminal, it will show the modified,tracked and untracked files in a repository.
+
+> git add <File_Name> ---> This command will add the modified files, which will be commited.
+
+> git commit -m "<Commit_Message>" ---> To commit a file under staging/waiting area and (-m) for additional message.
+
+> git push ---> This command will push the changed files into your feature branch.
+
+> git pull --> This command will fetch/pull the latest changes in the working feature branch/repo to your local.
+
+** Note:- Its a best practice to always pull the latest code before making yours changes. This also applies to
+          ,more than one folks who are working on the same branch.
+
+          Repository- storage area where the version control system stores files and info. about who changed.
+   
+          Master- master branch is the main branch of your repository,where all of the projects is directly implemented.
+        
+
+==================================================================================================================================================================================
+Git GUI Walkthrough
+~~~~~~~~~~~~~~~~~~~~
+
+> git gui  ---> In git Bash terminal when you provide this command, it will open up the git Graphical User Interface.
+
+> Unstaged Changes ---> In the left panel of the gui, this shows all the modified, untracked and newly added files in the
+                        working repo. Click on any unstaged file then,Press ( Ctrl + T ) to move to staged changes.
+
+> Staged Changes(Will Commit) ---> In bottom-left panel, this shows the staged/waitlisted changes that are about to be commited.
+
+> Commit
+
+==================================================================================================================================================================================
+Miscellaneous Bash Commands
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> To create username and email in gitbash;
+      ·  git config --global user.name “xyz”
+      ·  git config –-global user.email “xyz@gmail.com”
+
+> To check if the username and e-mail is given correctly for your git repository.
+      ·  git config --global user.name
+      ·  git config -–global user.email
+
+> mkdir <Folder_Name> ---> This will create a new folder/Directory through git bash.
+
+> pwd ---> This will display current working Directory path.
+
+> ls ---> This will list down all the files/Directory that you are currently working on.
+
+> cd <Folder_Name> ---> This will allow to enter to the specified File/Directory.
+
+> cd .. ---> This will exit/previous the working directory.
+
+> clear ---> To clear your bash screen.
+
+> whoami ---> To display id of the user.
+
+> git init ---> To create/initialize a git repository in your current working directory.
+
+> touch <File_Name.txt> ---> To create a file in git repo (whether it be .js , .py , .html etc..).
+
+> ls -l ---> Displays a long/detailed format for the list of files under current directory.
+
+> git help ---> To check/for troubleshooting in git.
+
+> exit ---> To exit/logout from the bash shell.
+
+> ls -a ---> Displays hidden .git directory, which stores all history of our project.
+
+>

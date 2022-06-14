@@ -15,7 +15,7 @@
    . POM is an XML file that has all the information regarding project and configuration details
    . When we tend to execute a task, Maven searches for the POM in the current directory
 
-> The tool is used to build and manage any java based project , simplifies work for java developers.
+> The tool is used to build and manage any java based project, simplifies work for java developers.
 
 > In Maven, while setting up a new maven project there is "Artifact Co-ordinates", which consists of;
     GroupId- usually the name of the company/domain

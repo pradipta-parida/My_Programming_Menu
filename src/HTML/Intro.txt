@@ -4,7 +4,7 @@
 HTML Syntax
 ---------------------------
 
-<button>Press Me</button>                    --->     <button></button> are called tags.
+<button>Press Me</button>                    --->     <button></button>  are called tags.
                                                         |           |
                                                         V           V
                                                     open tag       Close tag
