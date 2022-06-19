@@ -15,7 +15,10 @@ Git Bash
 
 > git push ---> This command will push the changed files into your feature branch.
 
-> git pull --> This command will fetch/pull the latest changes in the working feature branch/repo to your local.
+> git pull --> This command will fetch/pull the latest changes in the working feature(or)master branch/repo to your local.
+               This also tracks and updates the newly created feature branch from master branch.
+
+> git checkout <Feature_Branch_Name> ---> This Command helps to switch from different branches(master <-> feature_branch).
 
 ** Note:- Its a best practice to always pull the latest code before making yours changes. This also applies to
           ,more than one folks who are working on the same branch.

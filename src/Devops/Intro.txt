@@ -1,0 +1,18 @@
+> Youtube Link- https://www.youtube.com/watch?v=lpk7VpGqkKw
+
+> Devops Procedure:
+    1. Plan the Procedure
+    2. Write codes for functionality.
+    3. Make the codes executable. 
+    4. Run Tests
+    5. Run software on client system.
+    6. Monitor the working of the software and give feedback.
+
+>   
+
+>
+
+>
+
+>
+

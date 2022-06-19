@@ -12,6 +12,14 @@
 
      &       ----> Ampersand
 
-     *       ----> Asterisks
+     *       ----> Asterisk
 
-     #
+     #       ---->
+
+     %       ----> Percent
+
+     .       ----> Dot/Period
+
+     -       ----> Hyphen
+
+     @       ----> At the rate

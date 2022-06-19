@@ -7,6 +7,6 @@
         Velocity- In the form of patient records, test results. All these data are generated at a very high speed.
         Variety- Data in the form of structured data(excel records), semi-structured(log files), unstructured data(X-ray images).
         Veracity- Accuracy, Trustworthiness
-        Value-
+        Value- Faster disease detection, Better Treatment, Reduced Costs
 
 > 

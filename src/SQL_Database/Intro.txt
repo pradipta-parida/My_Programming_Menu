@@ -1,0 +1,36 @@
+Youtube Link- https://www.youtube.com/watch?v=xdMKqF52TtI
+
+> What is a Database?
+   ~ An organised collection of data stored in electronic format.
+   ~ Data ---> Database -----> We can . Access the Data
+                                      . Manipulate the Data
+                                      . Update the Data
+
+> What is DBMS?
+   ~ DBMS = Database Management System.
+   ~ It is a system software for creating and managing Databases.
+   ~ Database -----> DBMS
+
+> Types of Database Architecture:
+   ~ File Server - Files stored in local system. For e.g; If we have an excel file and made a copy of it and shared 
+                   to our friend . Suppose, we made some changes in the original file but the changes does not reflect
+                   in the shared copy excel sheet.Basically, your system/server will act as a storage system and only one
+                   person can access at a time.
+
+   ~ Client Server - Multiple users are accessing the same information(centralized server).If any changes are happening in the information end, then 
+                     its reflected among other users system.
+
+> Introduction to SQL;
+   ~ SQL stands for "Structured Query Language" which is a standard language for accessing and manipulating databases.
+   ~ Categories of SQL Commands:
+      1. Data Query Language (DQL)-  Select
+      2. Data Defination Language (DDL)- Create Table, Alter Table, Drop Table
+      3. Data Manipulation Language (DML)- Insert, Update, Delete
+      4. Data Control Language (DCL)- Grant, Revoke
+
+> What are Tables in Database?
+   ~ A table is a database object which comprises Rows and Columns.
+   ~ Fields/Columns - e_id, e_name, e_salary, e_age, e_gender, e_dept
+   ~ Records/Rows - gives complete information of a particular entry.
+   
+
