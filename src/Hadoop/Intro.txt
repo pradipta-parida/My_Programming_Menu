@@ -1,3 +1,5 @@
+> Youtube Link - https://www.youtube.com/watch?v=VmO0QgPCbZY
+
 > A Data can be classified into Bigdata under 5V's;
     Volume , Velocity , Variety, Veracity, Value
 

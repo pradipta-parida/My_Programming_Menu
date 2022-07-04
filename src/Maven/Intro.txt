@@ -4,7 +4,7 @@
               . Generating source code
               . Generating documentation of the source code
               . Compiling of source code
-              . Packaging of compiled codes into JAR(JAR stands for Java ARchive.
+              . Packaging of compiled codes into JAR(JAR stands for Java ARchive).
                 It's a file format based on the popular ZIP file format and is used 
                 for aggregating many files into one) files
               . Installing the packaged code in local repository, server or central repository

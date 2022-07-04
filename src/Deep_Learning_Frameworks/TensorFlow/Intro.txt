@@ -1,3 +1,5 @@
+> Youtube Link - https://www.youtube.com/watch?v=0skIU_Icwdw
+
 > TensorFlow is a open-source library released in 2015 by Google Brain team for building machine learning 
   and deep learning models.
 
