@@ -8,11 +8,28 @@
     5. Run software on client system.
     6. Monitor the working of the software and give feedback.
 
->   
+> Devops is a mindset/combination of two practices. Dev refers to "Development" and Ops refer to "Operations".
+  Its a culture that brings these two teams together the Development team writes codes for new products security
+  updates and Bug fixes, while the operation team looks after the server and makes sure that the deployments happen more
+  reliably. The main focus of devops is towards integrating these two teams to improve collaboration and increase
+  productivity by automating the entire process of software development. 
+   
+> First, In Development Phase- The first step is to put down a plan that includes modules and the algorithms
+  to be used in the software . Once, the plan is finalized it is developed with tools like Git, as git helps to 
+  store all the codes and different versions of those codes. This is called the version control system. This code
+  is now fetched and made executable in the next stage and that is called the build phase. The phase uses tools like
+  Gradle (or) Maven . After, the code is made executable it is supposed to be tested. The next stage test the code
+  for any bugs and the most famous tools used in this phase is Selenium. Once, the testing is done Deployment comes
+  into consideration, this is where the work of the Operations team begins. In the Deployment, phase the product is deployed
+  and this deployed product is continuously configured to the desired state. The tools that could be used to automate those
+  phases are Ansible(or)Puppet(or)Docker. The productfrom here is continuously monitored for any failures and the most common tool
+  that makes it possible is Negios. The feedback of all the monitoring is sent back to the planning phase. This process is repeated 
+  in continuous cycles and this happens until a satisfactory result is reached. This completes the entire devops cycle, i.e; the process
+  of automation from the planning phase to the monitoring phase. This is referred to as the core of devops lifecycle, the integration phase.
+  Jenkins another devops tool is known for sending the code for build and test and if this code passes the test, it is further deployed and 
+  monitored.  
 
->
-
->
+> 
 
 >
 

@@ -1,0 +1,5 @@
+        Type                    Windows                    MacOs                    Linux
+===========================================================================================================
+> Code Formatting             Shift + Alt + F          Shift + Option + F      Ctrl + Shift + I
+
+> 

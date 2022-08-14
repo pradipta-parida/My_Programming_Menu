@@ -1,0 +1,16 @@
+> Basic Architecture -- Hardware, kernel(Program), Shell(Program), Commands, Files and Directories(Folder-in windows)
+
+> Hardware - CPU, Motherboard, Ram etc..
+
+> Kernel - On top of Hardware, there is a program which is called Kernel. So, kernel program is capable of talking
+           to the hardware directly. It uses device drivers. so, with the help of device drivers, kernel program is able
+           to talk to any hardware. It can talk to CPU,to RAM everything.so, Kernel is the most critical component in 
+           any operating system.
+
+> Shell - Kernel is taking input from Shell. Shell program reads the Command(the Command file) and it transaltes the file code
+          line by line to the kernel. So, that kernel can understand in the form of language which hardware understands. So, 
+          kernel and hardware, both talk with the same langugae. so, Shell will be translating the code in the language which
+          kernel understands. Kernel will then take the action accordingly. Shell program takes the input from users and application
+          programs.
+
+> 

@@ -1,8 +1,10 @@
 > Youtube Link - https://www.youtube.com/watch?v=K5FL6-6Wmjw
 
-> 
+> Its an open-source client side framework for developing " single-page web application (SPA) "
 
->
+> Benefits;
+  . Your browser fully renders the DOM one single time
+  . The background javascript then modifies the page content based on user interactions.
 
 >
 

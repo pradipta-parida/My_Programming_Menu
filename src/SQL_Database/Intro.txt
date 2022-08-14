@@ -12,6 +12,7 @@ Youtube Link- https://www.youtube.com/watch?v=xdMKqF52TtI
    ~ Database -----> DBMS
 
 > Types of Database Architecture:
+
    ~ File Server - Files stored in local system. For e.g; If we have an excel file and made a copy of it and shared 
                    to our friend . Suppose, we made some changes in the original file but the changes does not reflect
                    in the shared copy excel sheet.Basically, your system/server will act as a storage system and only one

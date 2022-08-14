@@ -1,0 +1,17 @@
+> During 90's , the methodology being used was the Waterfall Model.
+    . The Waterfall Model involves teams following a series of steps,and only going forward after the previous
+      steps, and only going forward after the previous steps are completed.
+
+    . It is best used in scenarios where the teams are small, and the project is expected to move in a predictable
+      manner.
+
+> The Waterfall Model - Disadvantages
+  These are some of the reasons why the move to an alternative to the Waterfall Model was necessary:
+    . Make changes difficult 
+    . It doesn't focus on the end-user / client
+    . The testing phase is delayed until most of the project is completed 
+    . Measuring the progress within stages is difficult
+
+> What is Agile?
+    . Agile is an approach to software development under which requirements and solutions evolve through the 
+      collaborative effort of self-organizing and cross-functional teams and their customer/end user. 

@@ -1,5 +1,9 @@
-Git Bash
-~~~~~~~~~~
+> There is two things in Git/Bitbucket;
+  . Project  - This is the high-level of a project, where it contains several repositories inside of it.
+  . Repository  - This is where all your source codes, packages and all type of dependencies are there.
+
+Git Bash Commands
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 > Install Git in your system.
 
 > git Bash ---> Right-click and click on Git Bash in a repository/project. This will open up the bash terminal.
@@ -15,7 +19,7 @@ Git Bash
 
 > git push ---> This command will push the changed files into your feature branch.
 
-> git pull --> This command will fetch/pull the latest changes in the working feature(or)master branch/repo to your local.
+> git pull ---> This command will fetch/pull the latest changes in the working feature(or)master branch/repo to your local.
                This also tracks and updates the newly created feature branch from master branch.
 
 > git checkout <Feature_Branch_Name> ---> This Command helps to switch from different branches(master <-> feature_branch).
@@ -34,13 +38,18 @@ Git GUI Walkthrough
 
 > git gui  ---> In git Bash terminal when you provide this command, it will open up the git Graphical User Interface.
 
+> Rescan ---> In Git GUI, this button will rescan/refresh/retrack all the modified files in a repository.
+
 > Unstaged Changes ---> In the left panel of the gui, this shows all the modified, untracked and newly added files in the
                         working repo. Click on any unstaged file then,Press ( Ctrl + T ) to move to staged changes.
 
 > Staged Changes(Will Commit) ---> In bottom-left panel, this shows the staged/waitlisted changes that are about to be commited.
 
-> Commit
+> Commit ---> After, providing the commit message we click on commit button will save the modified changes done in a branch.
 
+> Push ---> This button will push all the local changes to the feature_branch and we can view the same in Git/BitBucket web page.
+
+> Amend Last Commit ---> This commit will revert back the last commit changes done in a repository.
 ==================================================================================================================================================================================
 Miscellaneous Bash Commands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,5 +86,13 @@ Miscellaneous Bash Commands
 > exit ---> To exit/logout from the bash shell.
 
 > ls -a ---> Displays hidden .git directory, which stores all history of our project.
+
+> git {First_Letter} [tab] ---> this will dispaly all the Directory/possibility files present for that
+                                particular keyword.
+
+** To copy & paste anything into gitbash;
+      . Copy anything 
+      . Click (Left + Right) simultaneously of mouse/mousepad on that blinking cursor
+      . This will paste the content in the bash command
 
 >

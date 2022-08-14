@@ -1,3 +1,13 @@
+> Spring is a java framework built to create an enterprise-ready application.It creates jar, properties and all packages
+  for java related project. SpringBoot is a extension of Spring which allows developer to concerntrate on convention
+  not the configuration part
+
+> Benefits of SpringBoot:
+  . Rapid application development
+  . Managing the dependencies
+  . Auto-configuration
+
+=========================================================================================================================
 > Maven is a build tool that helps in project management. The tools helps in building and documenting the project.
 
 * Build Tool- It is essential for the process of building. It is needed for the following process;
@@ -21,11 +31,10 @@
     GroupId- usually the name of the company/domain
     ArtifactId- usually the project name
     version-
-======================================================================================================
+
 > To check maven version and installation;
     Step-1 : Check if maven is already installed 
-            goto cmd
-            mvn -version
+            Goto cmd and type --> mvn -version
 
     Step-2 : Download maven from internet
                https://maven.apache.org/download.cgi
@@ -43,5 +52,21 @@
 
     Step-5 : Check again if maven is installed
 
-===================================================================================================
+================================================================================================================================================================
+> While compressed files are typically given a . zip extension, the Java community instead uses the . ear extension for Java EE-based enterprise applications,
+  . war for web applications, and . jar for stand-alone Java applications and linkable libraries.
 
+>                   JAVA SE	                                            JAVA EE
+              
+Java or Java SE provides basic functionality          Java EE provides APIs for running large-scale applications.
+like defining basic types and objects.             
+	
+SE is a normal Java Specification.	                  EE is built upon JAVA SE. 
+                                                      Provides functionalities like web applications, servlets etc.
+
+It is mostly used to develop APIs for Desktop         It is mainly used for developing web applications.
+Applications like antivirus software, game, etc.
+
+Suitable for beginning Java developers.               Suitable for experienced Java developers who build enterprise-wide applications.
+
+> 

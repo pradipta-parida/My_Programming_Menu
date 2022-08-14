@@ -33,3 +33,7 @@ To Verify installation of docker, go to cli type -->  docker (or) docker --versi
 
 To check if docker daemon is running, go to cli type --> docker ps 
 
+-----------------------------------------------------------------------------------------------------------------------------------
+> Docker Containers are an alternative to VMs because they are comparatively lightweight. They contain all 
+  the dependencies the application requires but without the actual OS.
+

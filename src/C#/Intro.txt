@@ -1,0 +1,33 @@
+> What is a Collection Classes?
+  . Collection Classes are specialized data storage and retrieval classes 
+  . In addition to stacks and lists, these classes also provide functionality for hash tables
+  . Collection classes are useful for a variety of tasks, including dynamic memory allocation for elements
+    and index-based access to a list of things 
+
+> Types of Collections:
+  . Generic Collection - It is a class that provides type safety without requiring derivation from basic
+                         collection type and the implementation of type specific members.The collection 
+                         classes are found in the namespace system.collections.generics .Internally generic
+                         collection store elements in arrays of their respective types i.e; it can only have
+                         ,if the collection is of n-type then it can only have elements of n-type.
+
+                         Several Generic Collection example:- List, Dictionary, Sorted List, Stack, Queue 
+
+  . Non-Generic Collection - It is a specialized data storage and retrieval classes that handle stacks, Queues,list
+                             and hash tables. The system.collection namespace contains the non-generated collection
+                             classes. Non-generic collection classes store elements and object areas internally allowing
+                             them to hold any type of data. so, basically same collection can have different type of 
+                             databses.
+
+                             Several Non-Generic Collection example:- ArrayList, Hash Table,Sorted List, Stack, Queue
+
+> Using, Generic Collections is peferable to using non-Generic Collections because they are more efficient
+  and less prone to exceptions, by dispalying a compile-time error.
+
+> Generic collections types are found in the "System.Collections.Generic" namespace while Non-Generic Collections
+  types are found in the "Collections" namespace.
+
+> The "System.Collections.Specialized" namespace contains certain specialised collections that are optimized
+  for a specific type of data type.
+
+> The collection class supports duplicate elements and accepts null as a valid value for reference types.    
