@@ -1,0 +1,15 @@
+> Windows Command Prompt also known as "cmd"
+
+> Useful Command Tricks/Shortcuts:-
+------------------------------------------------------------------------------------------------------------
+        Key Binding                                                        About
+     ~~~~~~~~~~~~~~~~~~~~                                             ~~~~~~~~~~~~~~~~~~~
+          exit()                                       To abruptly come out/exit from the ongoing process
+
+          
+
+
+
+
+
+

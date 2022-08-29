@@ -1,0 +1,37 @@
+C#.net --> is a programming language, which is used to write coding part/ logic part for the application development
+
+Asp.net core --> Active Server Page --> not a programming language, its a server side technology/ web technology.
+                                        used to design website/webpages(web applications)
+
+Sql server --> Database tool --> to store enduser information
+
+Ado.net --> Active X Data objecy --> native driver --> used to communicate from front-end to back-end applications.
+
+Asp.net mvc --> Active Server Page Model View Controller --> to design pattern
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+.net is a product of microsoft , .net (Network Enabled Technology) , .net is a framework tool
+
+VS(Visual Studio) --> IDE(Integrated Development Enviroment)
+
+Application Area of .net
+-------------------------------------------------------------
+1. Console App(CUI- Command User Interface)
+2. Windows form app (GUI- Graphical User Interface)
+3. Web applications(Distributed/ online applications)
+4. windows services
+5. web services
+6. WPF(windows presentation foundation)
+7. WCF(windows presentation foundation)
+8. MVC(Model View Controller)
+9. LINQ(Language Integratred Query)
+10. Gaming applications
+11. Mobile applications
+12. Business applications
+13. Network related applications
+---------------------------------------------------------------
+
+Platform Dependent --> 
+
+Platform Independent -->

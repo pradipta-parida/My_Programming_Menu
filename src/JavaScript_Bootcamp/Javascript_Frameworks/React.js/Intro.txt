@@ -1,9 +1,0 @@
-React is a javascript library that means its not as different as writing in html,css and javascript.
-
-With Html,Css and Javascript we can create static files such as index.html, style.css and script.js .
-
-But in React there is a build process(intermediate server) in between to convert the code you are writing into something
-which browser can understand 
-
-Open Terminal/Command shell type --> npx create-react-app hello-world --> this will create app named
-as hello-world

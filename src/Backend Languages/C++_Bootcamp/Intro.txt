@@ -1,0 +1,24 @@
+> 
+
+>
+
+>
+
+> Applications in Real World;
+    . High Performance Applications
+    . Video Games
+    . Device Drivers
+    . Web Browsers
+    . Servers
+    . Operating Systems and so on..
+
+> If you want to build an application that needs to be fast and use memory efficiently, then C++ is a great choice
+
+> To master C++ we need to learn two things;
+    . C++ Language - meaning the syntax/ grammar of this language
+    . C++ Standard Library(STL) - a collection of pre-written C++ code that provides functionality that is required
+                                  by many applications
+                                  e.g; Data Structures - List , Map
+                                       Algorithms - Searching , Sorting
+                                
+> 

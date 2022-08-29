@@ -1,0 +1,47 @@
+> Java Installation Steps :-  
+  1. Download JDK from https://bit.ly/jdk_techdecode 
+  2. Check Java, is working or not. For that open cmd--> type "java --version" 
+  3. Check Javac version, For that open cmd--> type "javac --version"
+  
+====================================================================================================================================
+
+> Java which was initially known as "OAK".
+
+> What is Java?
+  . A Programming Language based on C/C++, which is Class based, Concurrent, Based on the principles of 
+    Object-Oriented Programming
+
+> Why use Java?
+  . Stable Language
+  . Backward Compatibility - code worked on much earlier version can still be worked on latest version
+  . Ability to work in large teams
+
+> Where can Java be used?
+  . Andriod Application
+  . Web Applications
+  . Trading Applications
+  . Big-Data Technologies
+
+> Who is a Java Developer/Programmer?
+  . Integrates java in software ,business applications and websites
+  . Understands the client's vision on a project
+
+>                    JAVA SE	                                            JAVA EE
+ -----------------------------------------------------------------------------------------------------------------------------------            
+Java or Java SE provides basic functionality          Java EE provides APIs for running large-scale applications.
+like defining basic types and objects.             
+	
+SE is a normal Java Specification.	                  EE is built upon JAVA SE. 
+                                                      Provides functionalities like web applications, servlets etc.
+
+It is mostly used to develop APIs for Desktop         It is mainly used for developing web applications.
+Applications like antivirus software, game, etc.
+
+Suitable for beginning Java developers.               Suitable for experienced Java developers who build 
+                                                      enterprise-wide applications.
+
+
+> While compressed files are typically given a .zip extension, the Java community instead uses the .ear extension
+  for Java EE-based enterprise applications, .war for web applications, and .jar for Core Java applications/stand-alone Java applications
+  and linkable libraries(Java Archive).
+  

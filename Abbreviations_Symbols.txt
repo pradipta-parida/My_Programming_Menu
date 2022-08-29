@@ -14,7 +14,7 @@
 
      *       ----> Asterisk
 
-     #       ---->
+     #       ----> Pound
 
      %       ----> Percent
 
@@ -23,3 +23,25 @@
      -       ----> Hyphen
 
      @       ----> At 
+
+     ~       ----> Tilde
+
+     ?       ----> Question mark
+
+     !       ----> Exclamation mark
+
+     _       ----> Underscore
+
+     =       ----> Equals
+
+     <>      ----> Angle Brackets/Braces
+
+     {}      ----> Curly Brackets/Braces
+
+     []      ----> Square Brackets/Braces
+
+     \       ----> Backslash
+
+     /       ----> Forwardslash
+
+     '       ----> Apostrophe

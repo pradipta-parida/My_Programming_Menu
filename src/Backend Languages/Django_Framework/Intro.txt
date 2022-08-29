@@ -1,0 +1,30 @@
+> What is Django?
+   . Python based web-framework 
+   . Server-side framework/Back-end(we can use to build websites)
+   . MVT(Model View Template) design pattern
+   . Batteries included
+
+> What is a web-framework?
+   . Collections of Modules,Packages and Libraries designed to speed up development 
+
+> Other Python Frameworks - Flask,Cherry Pie,Web2py,Pyramid
+
+> MVT Design Pattern:-
+ ----------------------------------------
+
+  Model- Data Access Layer(Database,model data,database tables built out in classes)
+  View- Business Logic
+  Template- Presentation Layer(what users sees,page/web page)
+                                                  
+  For example;                                    / Models(M)
+                           Http Response         /
+  Facebook.com <---> URLs <-------------> Views /
+                           Http Request    (V)  \
+                                                 \
+                                                  \ Templates(T)
+
+  . Django takes care of MVC(Model View Controller) aspect
+
+> To install Django in local;
+
+  Go to "cmd" ---> type "pip install virtualenv"

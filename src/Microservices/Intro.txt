@@ -1,0 +1,42 @@
+> A Monolithic Architecture was the standard. i.e; the whole code is basically is part of a single unit 
+  For e,g; 
+  If there is a Online Shopping application, all of its parts like the user authentication, shopping cart,
+  product catalog,sales campaigns, notifications and so on.. all the codes for these functionalities would be in one 
+  codebase, as part of one Monolithic application.
+  Everything is Developed,Deployed and Scaled as 1 unit. i.e; the application must be written in a single language
+  with one technology stack with a single runtime.
+  Teams working on different parts of the application, need to be careful to not affect each others work.
+  For any minute single artifact change/ minor change, so you must redeploy the entire application on each update.
+   
+> Challenges of Monolithic Architecture;
+  . Co-ordination between teams becomes difficult when application becomes too large and complex
+  . Parts are more tangled into each other
+  . If suppose, you had a usage spike in shopping cart on holiday days and you want to scale that part of the application
+    ,you can't do it.you can only scale the entire app , instead of specific service.
+    This in turn means higher infrastructure costs and less flexibility in scaling your application up and down
+  . If a Payment functionality used a third-party module with a version of 1.8 while Notifications feature needed the
+    same module but required the version 1.7.In, monolithic appn. you can only have one dependency of the same module.
+    i.e; Difficulty if services need different dependency versions
+  . Release Process(CI/CD) takes longer. on every change, the entire application needs to be tested,build,deployed.
+  . Bug in any module can potentially bring down the entire application 
+
+> To answer all the above issues, Microservices Architecture came into picture.
+
+> What is Microservice Architecture?
+  . Split Application/Monolithic application into smaller/independent services(Microservice)
+  . Split of Microservices is based on business functionalities(like, user-account,shopping-cart,payment,checkout)
+  . Microservice must do just one isolated things(1 service for 1 specific job)
+  . Microservices sholud be self-contained and independent(each service must be Developed, Deployed and Scaled separately)
+    without any tight dpendencies on any other services even though they are part of same application(Apps should be
+    Loosely Coupled)
+
+> How Services Communicate Between them?
+  . Communication via API calls
+     - Each service has its own endpoint on which it accepts request from other services 
+     - They can talk to each other, by sending HTTP requests to the respective API endpoints
+     - It is a synchronous communication, where one service request to another service and waits for the response and vice-versa
+     - We can also do by, asynchronous communication(message broker)
+     - Communication via service mesh
+
+
+  

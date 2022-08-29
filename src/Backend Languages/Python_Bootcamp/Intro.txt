@@ -1,0 +1,9 @@
+> To Check the installed Python Version;
+
+   Go to cmd --> type "python" (or) "python --version" --> hit Enter to view it
+
+>
+
+>
+
+>

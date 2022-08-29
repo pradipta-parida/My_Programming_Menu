@@ -1,0 +1,78 @@
+> React is a Javascript Library for building fast and interactive user interfaces. It takes care of rendering the
+  view and making sure that the view is in sync with the state.
+  It was developed by facebook.
+
+> With Html, Css and Javascript we can create static files such as index.html, style.css and script.js respectively.
+
+> But in React there is a build process (intermediate server) in between to convert the code you are writing 
+into something which browser can understand 
+
+> At the heart of React, there is Component. Component is essentially a piece of the UI. So, when building applications
+  with React, we build a bunch of (independent, isolated and reusable) components and then compose them to build complex
+  UI.
+
+> Every React application, has atleast one Component which we refer to as root componenet. This componenet refers to
+  entire application and contains other child Component. so, every React application is a tree of components.
+
+  For Example;
+  In Twitter, we can split the page into components like Navbar,Profile,Trends and Feeds.Feeds include several Tweet
+  components, each Tweet component will include Like component, which we can reuse on other pages or even in different
+  applications. so, each component is a piece of UI. we can build this component in isolation and then put them together
+  to build complex UIs.In a tree representation,
+  
+
+                app
+                 |
+      Navbar     Profile   Trends   Feeds
+                                    Tweet
+                                    Like
+
+> In terms of Implementation, component is typically implemented as a Javascript Class that has some State and a render()
+  method.
+
+> The State here is the data that we want to display when the component is rendered and the render method is responsible
+  for describing what the Ui should look like.
+
+> The output of render() is a react element which is a simple plain Javascript object that maps to a Document Object Model (DOM) element in memory.
+
+> So, React keeps a light-weight representation of the Dom in memory which we refer to as the virtual Dom. Unlike, the browser
+  /real Dom, this virtual Dom is cheap to create when we change the state of a component we get a new React element. React will
+  then compare this element and his children with the previous one it figures out what is changed and then it will update a part
+  of the real Dom to keep it in sync with the virtual Dom
+
+> That is , we need not to write code and query and manipulate the Dom or attach event handlers to Dom elements.
+  we simply change the state of our component and react will automatically update the Dom to match the state  
+=====================================================================================================================
+ Steps To Get Started:
+
+> Open Terminal/Command shell type --> npm i -g create-react-app@1.5.2
+
+                                    where; i for "install"
+                                          -g for "Global"
+                                           create-react-app "package to create React app"
+                                           @ "version to install"
+
+> Use VSCode Editor and download extensions "Simple React Snippets" and "Prettier-Code Formatter".
+  In settings.json edit with "editor.formatOnSave": true,
+
+> Open Terminal/Command shell type --> create-react-app react-app
+  
+  where; <react-app>  will create app named as react-app(can be customized according to project name)
+
+  This will install react as well as all the 3rd party libraries we need.Its going to install light-weight Development
+  server, Web pack for bundling our files, Babel for compiling javascript code and as well bunch of other tools.
+
+> Some Terminal/Command shell commands to get started;
+
+    npm start - starts the Development server
+
+    npm run build - Bundles the app into static files for production
+
+    npm test - starts the test runner
+
+    npm run eject - removes this tool and copies build dependencies, configuration files and scripts into the app
+                    directory. If you do this, you can't go back.(mainly used for customization in tools for production)
+
+    cd <react-app> - to go into the particular directory
+
+    

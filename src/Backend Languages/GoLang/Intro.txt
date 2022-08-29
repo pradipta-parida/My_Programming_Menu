@@ -1,0 +1,73 @@
+> Youtube Link - https://www.youtube.com/watch?v=8B0Oxg-Ujv0
+
+> Go is a Strong and Statically-typed Compiled Language.
+
+    * Strong - type of variable can't be changed in a code, it will remain the same throughout the code.
+
+    * Statically - all the variables must be declared at the compile time.
+
+    * Compile Language - that you only have to compile the code and it will be converted to machine code
+                         directly (e.g; C/C++). Go doesn't have a virtual machine like Java Language, which 
+                         takes time to convert the script into machine Language.
+                         
+
+> GoLang is an open source Programming Language.
+
+> Features of GoLang :- Flexible, Concurrency, Strong Security,Impressive Standard Library,Fast Output
+
+> Real-Time Applications Of GoLang :
+    . AI & Data Science,
+    . Devops and site-reliability automation 
+    . Used in micro-controller programming, robotics and games
+    . Cloud based/ server-side Applications
+    . Used in developing command line interfaces
+
+> It is most popularly used in building infrastructure tools, such as kubernetes,docker and prometheus.
+
+> A variable is a storage area defined to store temporary data. Variable can further be changed according
+  to program needs.
+
+  Syntax:  . Using var keyword
+                var variable_name type = expression
+           . Short-variable declarartion
+                variable_name:= expression
+
+> import "fmt" - formatting package and it contains a print function.
+
+> Everything in Go is inside packages whether its a print function or any other function. We have to use 
+  packages by using import, writing the package name in inverted commas.
+
+> If someone wants to use script or your code, he can by importing your Go file or your Go package. So, it
+  becomes mandatory and Go to put the code in a package . Here, we will put a code under the main package
+
+> To run a Go file;
+
+    go run <Go_file_path>
+
+    e.g; go run "c:\Users\prparida\Pictures\My_Programming_Menu\src\GoLang\Demo.go"
+
+> Data Types - It specifies the type and space alloted to variables or functions.
+  
+  Various Types of data types used in GoLang;
+
+  . Bool Type : 1,0
+  . Numeric Type : 2,5,7,8
+  . String Type : Pradipta
+  . Derived Type : Array Type, Structure Type,etc.
+
+> Operators - It is a specified operation that is performed on the operands.
+  
+  Various Types of Operators used in GoLang;
+
+  . Arithmetic Operators : + , - , * , /
+  . Relational Operators : > , < , >= , <=
+  . Logical Operators : && , ||, !
+  . Bitwise Operators : ^ , << , >>
+  . Assignment Operators : <<= , >>= , &=
+
+> Loops- A loop is the repetition of a block of code that executes a control statement specific number of times.
+  
+  For Loop: Infinite loop, While loop
+
+> 
+  
