@@ -1,0 +1,16 @@
+> Dart is a scalable language that is used to write simple-scripts or full-featured applications.
+  Dart was created by Google.
+
+> We can use "DartPad" for programming in dart.
+
+> void main() {
+    for (int i = 0; i < 5; i++) {
+      print('hello ${i + 1}');
+      print(4-1);
+      print(false);
+    }
+  }
+
+  main() ---> method/function is where the program execution starts
+  void ---> return type
+  print('hello ${i + 1}'); ---> to print code in console 

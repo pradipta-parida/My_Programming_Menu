@@ -1,5 +1,3 @@
-package Operators;
-
 public class ComparisonOperator {
 
     public static void main(String[] args) {

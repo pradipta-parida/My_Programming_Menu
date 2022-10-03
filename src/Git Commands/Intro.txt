@@ -1,3 +1,28 @@
+> Git is the most popular version control system in the world.
+
+> A version control system records the changes made to our code over time in a special database called 
+  "Repository".
+
+> Benefits of version Control System;
+   . Track History
+   . Work Together
+
+> version Control System are of two categories;
+   . Centeralized - all team members connect to a central server to get the latest copy of the code and to 
+                    share their changes with others.
+
+                    The only one problem with the Centeralized is, the single-point failure- if the server goes
+                    offline we cannot collaborate or save snapshots of our project. so, we have to wait 
+                    until the server comes back online
+
+                    e.g; Subversion,Team Foundation Server
+
+   . De-Centeralized - all team members has a copy of the project with its history on their machine. so, we
+                       can save snapshots of our project locally on our machine, if the central server is offline
+                       we can synchronize our work directly with others 
+
+                       e.g; Git, Mercurial
+
 > There is two things in Git/Bitbucket;
   . Project  - This is the high-level of a project, where it contains several repositories inside of it.
   . Repository  - This is where all your source codes, packages and all type of dependencies are there.
@@ -5,6 +30,10 @@
 Git Bash Commands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 > Install Git in your system.
+
+> git --version ---> In command prompt, type this command to view the git version installed in your local machine.
+
+> Git Bash ---> This application is a shell, basically a Command prompt but it emulates unix/linux enviroment   
 
 > git Bash ---> Right-click and click on Git Bash in a repository/project. This will open up the bash terminal.
 
@@ -31,6 +60,8 @@ Git Bash Commands
    
           Master- master branch is the main branch of your repository,where all of the projects is directly implemented.
         
+> git config core.longpaths true ---> Inside the git local repository use this command, if you are getting file path
+                                      too long error
 
 ==================================================================================================================================================================================
 Git GUI Walkthrough
@@ -95,4 +126,7 @@ Miscellaneous Bash Commands
       . Click (Left + Right) simultaneously of mouse/mousepad on that blinking cursor
       . This will paste the content in the bash command
 
->
+> git checkout -b <Feature_Branch_Name> ---> A new branch called "Feature_Branch_Name" will be created 
+                                             and switched to that branch.
+
+> 

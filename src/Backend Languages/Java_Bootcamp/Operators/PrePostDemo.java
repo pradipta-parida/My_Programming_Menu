@@ -1,5 +1,3 @@
-package Operators;
-
 public class PrePostDemo {
     public static void main(String[] args) {
 

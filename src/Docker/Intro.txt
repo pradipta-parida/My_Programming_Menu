@@ -1,3 +1,8 @@
+> Docker Containers are an alternative to VMs because they are comparatively lightweight. They contain all 
+  the dependencies the application requires but without the actual OS.
+
+> 
+
 Docker Steps
 --------------------------------------------------------------------------------------------------------
 1)	First, clone a repository.The "Getting Started project" is a simple GitHub repository which contains everything you need to build an image and run it as a container.
@@ -32,8 +37,6 @@ Docker Steps
 To Verify installation of docker, go to cli type -->  docker (or) docker --version
 
 To check if docker daemon is running, go to cli type --> docker ps 
-
 -----------------------------------------------------------------------------------------------------------------------------------
-> Docker Containers are an alternative to VMs because they are comparatively lightweight. They contain all 
-  the dependencies the application requires but without the actual OS.
+
 

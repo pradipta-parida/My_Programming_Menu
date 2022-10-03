@@ -2,8 +2,13 @@
 
    Go to cmd --> type "python" (or) "python --version" --> hit Enter to view it
 
->
+> Python Interpreter:
+   . knows how to execute python code
+   . translates/interpret our program into machine readable binary code
+   . a program that knows how to execute python code 
 
->
+      Our Source Code ---> Python Interpreter ---> Running Code
+
+> 
 
 >

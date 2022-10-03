@@ -1,5 +1,6 @@
 #Indentation refers to the spaces provided before the code.
 #Python uses indentation for a block of codes.
+
 x=int(input("Enter minimum number"))
 y=int(input("Enter maximum number"))
 i=x

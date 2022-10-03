@@ -1,0 +1,29 @@
+> Kubernetes/(K8S) makes it possible to containeraize applications/services and simplifies deployments to 
+  production.
+  Deployment of the containeraized applications into Production.
+
+> Kubernetes is container orchestration system.Docker helps us to create container on any computer.
+  But,if you want to create multiple containers on different computers/servers, you could use help of K8S.
+  K8S allows you to create the containers on different servers, either physical/virtual.And all of that is done 
+  automatically without your intervention
+
+> Benefits Of K8S:-
+  . Automatic deployment of the containeraized application across different servers
+  . Distribution of loads across multiple servers
+  . Auto-scaling of deployed applications
+  . Monitoring and Health check of the containers
+  . Automatic Replacement of failed containers 
+
+> K8S deploys containeraized applications and therefore it has to use a specific container runtime.
+
+  Examples of some popular Container Runtime- Docker, CRI-O,containerd
+
+  Such conatiner runtime , for example Docker must be running on each of the servers, which are 
+  included in the K8S cluster.And main outcome is that K8S could be utilized even without Docker at all.we
+  can change conatiner run-time from Docker to CRI-O and vice-versa.
+
+---------------------------------------------------------------------------------------------------------------
+
+> POD - It is the smallest unit in the K8S world. In , Docker world container is the smallest unit
+
+>

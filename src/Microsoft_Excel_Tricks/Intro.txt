@@ -1,0 +1,16 @@
+> How to combine 3 or more csv/excel files, into one Excel Sheet?
+   . Copy the location/path of all the csv files
+   . Go to Excel Sheet --> Get Data --> From File --> From Folder
+   . Choose "Combine and Load" and hit "Ok" button
+
+> How to copy content of an excel sheet and paste it?
+   . Select the contents
+   . Hold "Ctrl" and when "+" pops up drag the content to another cell
+
+> 
+
+>
+
+>
+
+>

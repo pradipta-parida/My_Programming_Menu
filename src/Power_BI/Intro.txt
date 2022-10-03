@@ -2,12 +2,37 @@
 
 > Power BI Tool- owned by Microsoft.
 
-> BI Tool - Business Intelligence Tool
+> BI Tool - Business Intelligence Tool,
 
->
+> Use Case of Power BI Tool:
+  . which helps to analyze data,clean data, and convert that data into visual format where you can create
+    different reports and dashboards
 
->
+> Power BI is a collection of components such as ;
 
->
+    . Power Query - It is an ETL(Extract-Transform-Load) Tool, which helps to clean the data.When you have 
+                    blank records, null value (or) different uncleaned data , it will clean data for visualization
 
->
+    . Power Pivot - is used for data modelling. when you have multiple data sources, if you want to connect them
+                    , create relationship between them.
+
+    . Power View -  is used for visualization to create 250+ types of chrts such as Pie chart,Bar chart etc.
+                    This chart is used for representation , dashboard.
+
+    . Power BI Service - to share the reports across the globe and helps usera to communicate between each other               
+
+> How Power BI Works?
+  . Lets consider Power BI as a package, we can divide the package into two parts "Power BI Desktop" and
+    "Power BI Service"
+  . Power BI Desktop - is a developer tool , its a desktop application 
+  . Power BI Service - is an online versio(cloud version) used for sharing and collaboration
+  . To create some dashboards or reports, we need some data.Power BI can pull data from excel,csv,sql,Ms Access,
+    Sharepoint,outlook,pdf or from website. we can bring any no. of data sources altogether or one-by-one.
+  . After, that we can do clean data, data modelling and also we can create different charts or maps.
+  . After creating reports, we want to publish these reorts in online service . so from here we can publish to 
+    Power BI Service.
+  . After, publishing definitely we want to share different people sitting across the world.
+---------------------------------------------------------------------------------------------------------------------------
+
+> How to combine 3 or more csv/excel files, into one data source?
+  . 
