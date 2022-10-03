@@ -6,7 +6,7 @@
       manner.
 
 > The Waterfall Model - Disadvantages
-  These are some of the reasons why the move to an alternative to the Waterfall Model was necessary:
+  These are some reasons why the move to an alternative to the Waterfall Model was necessary:
     . Make changes difficult 
     . It doesn't focus on the end-user / client
     . The testing phase is delayed until most of the project is completed 
