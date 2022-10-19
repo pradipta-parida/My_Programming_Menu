@@ -5,7 +5,7 @@
 > With Html, Css and Javascript we can create static files such as index.html, style.css and script.js respectively.
 
 > But in React there is a build process (intermediate server) in between to convert the code you are writing 
-into something which browser can understand 
+  into something which browser can understand 
 
 > At the heart of React, there is Component. Component is essentially a piece of the UI. So, when building applications
   with React, we build a bunch of (independent, isolated and reusable) components and then compose them to build complex
