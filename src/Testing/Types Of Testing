@@ -1,0 +1,27 @@
+> Smoke Testing - is the initial testing process exercised to check whether the software under test is
+                  ready/stable for further testing. It is also known as build acceptance testing.
+
+> Sanity Testing - is a kind of software testing performed after receiving a software build, with minor
+                   changes in code, or functionality, to ascertain that the bugs have been fixed and no
+                   further issues are introduced due to these changes.
+
+> Regression Testing - is a type of software testing which ensures that previously developed and tested
+                       software application working in the same way as it was working before recent
+                       code/configuration changes done.(testing unchanged features of an application
+                       such as adding,deleting and modification/fixing the defect is not affecting the
+                       unchanged features of an application)
+
+                        Types Of Regression Testing:
+                        . Unit Regression Testing- Testing only the changes/modifications made by the developer
+                        . Regional Regression Testing- Testing the changed part/module and the impacted modules
+                                                       (Impact Analysis Meeting is held to discuss the
+                                                        modules that are impacting due to the changes)
+                        . Full Regression Testing- Testing the changed feature and the remaining part of the
+                                                   application(if developer has done changes to most of the
+                                                   modules/root of a project,then don't go for testing impacted
+                                                   modules ,instead without wasting any time straight go for
+                                                   Full Regression Testing)
+
+
+
+>
