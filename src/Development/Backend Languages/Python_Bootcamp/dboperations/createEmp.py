@@ -1,10 +1,11 @@
-import mysql.connector;
+import mysql.connector
 
-def delete(id):
-    conn = mysql.connector.connect(host='localhost',database='mydb',user='root',password='test1234')
+
+def delete():
+    conn = mysql.connector.connect(host='localhost', database='mydb', user='root', password='test1234')
 
     if conn.is_connected():
-    print("Connected to mysql db")
+        print("Connected to mysql db")
     cursor = conn.cursor()
 
     try:

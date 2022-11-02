@@ -9,7 +9,7 @@ namespace GenericDictionary
             /*
             To initialize a dictionary we use keyword "Dictionary<int, string>" and in angular bracket 
             we define both the parts of dictionary-one is key and one is value , then we have dictionary 
-            name "dict", then we agin use "new" keyword to finally start this dictionary.
+            name "dict", then we again use "new" keyword to finally start this dictionary.
 
             This is the basic syntax to create a dictionary.                        
             */ 
@@ -23,7 +23,7 @@ namespace GenericDictionary
             */
             foreach(KeyValuePair<int, string> kvp in dict) // "foreach" is a loop
             {
-                console.writeline(kvp.key+ ""+kvp.value);
+                console.writeln(kvp.key+ ""+kvp.value);
             }
         }
     }

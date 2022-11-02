@@ -3,9 +3,9 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
 
 ## Topics to be covered
 0. Overview
-    - Course introduction, prequisites and software required
+    - Course introduction, requisites and software required
 1. Installation
-    - Install required softwares for Windows, MAC and Linux ( Ubuntu )
+    - Install required pieces of software for Windows, MAC and Linux ( Ubuntu )
 2. Getting Started with Dart Programming
     - Run your first app in Dart
     - Comments

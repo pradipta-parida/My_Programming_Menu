@@ -1,7 +1,7 @@
 > Platform - A platform is an environment that helps to develop and run programs written in any
              programming language.
 
-> IDE - Integrated Development Enviroment(basically an application that contains an Editor for writing code 
+> IDE - Integrated Development Environment(basically an application that contains an Editor for writing code
         as well as Build and Debugging tools)
 
 >                  Framework                                                             Library
@@ -12,18 +12,21 @@
 
 
 > How a Website works, in general?
-  . A website is nothing but a bunch of files that are stored on a computer that is called as Server
-  . You can access these files on your computer using a browser like chrome/firefox and so on..
+  . A Website is nothing but a bunch of files that are stored on a computer that is called as Server
+  . You can access these files on your computer using a browser like chrome/firefox and so on.
   . Your browser sends the server a request to access these files using the internet
   . Along with sending the files back, the server might choose to do other operations like storing any useful
-    information that came along with the request.Server does this with the help of database 
+    information that came along with the request.Server does this with the help of database
   . If you are writing code for what you see in the browser, you are doing Front-end Development
   . If you are writing code for what Server does when it receives a request, you are doing Back-end Development
   . If you are working on both server and browser code , you are doing Full-stack Development
 
-  .Example of Front-end Development - HTML, CSS and Javascript are the basic building blocks of Front-end Development
+  . Example of Front-end Development - HTML, CSS and Javascript are the basic building blocks of Front-end Development
 
         (Netflix Login Button)
-        .HTML- is what tells the browser that there is going to be a Button there
-        .CSS- defines the color of text and button 
+        .HTML-is what tells the browser that there is going to be a Button there
+        .CSS-defines the color of text and button
         .Javascript- tells the browser what action to perform, when this button is clicked
+
+> What is an OS(Operating System)?
+  .

@@ -1,5 +1,7 @@
         Type                          Windows                    MacOs                        Linux
 ===========================================================================================================
-> Remove Unused Imports              Ctrl+Alt+O
+> Remove Unused Imports             Ctrl + Alt + O
 
-> 
+> To Replace something              Ctrl + R
+
+> To Search Something               Ctrl + F

@@ -1,10 +1,10 @@
 > Spring is a java framework built to create an enterprise-ready application.It creates jar, properties and all packages
-  for java/python related project. SpringBoot is a extension of Spring which allows developer to concerntrate on convention
+  for java/python related project. SpringBoot is an extension of Spring which allows developer to concerntrate on convention
   not the configuration part.
 
 > Real Life Example:-
   Just imagine you have an idea to build an app and before writing any code that really does any business logic for your app you need to write and configure a lot of low level code such as servlets, security, database connectivity, dependency injection, logging and other important things. 
-  Hard work and time consuming right!
+  Hard work and time-consuming right!
   Spring Boot framework to the rescue. With Spring Boot you get can a Jetty server up and running in about 5 lines of code. Amazing right! This means that if you have any ideas, personal or university projects, Spring Boot allows you to get off the ground very quickly.
 
 > Benefits of SpringBoot:
@@ -45,7 +45,7 @@
 > For dependencies/JAR file for your pom.xml we go to "mvnrepository", which is a central repository for
   all the JAR files.
 
-> we dont have to be connected to internet for importing external dependencies. so, lets say if we are using
+> we don't have to be connected to internet for importing external dependencies. so, lets say if we are using
   spring 4.2.3.8 for the first time, it will get downloaded from the "remote repository". so, maven has a remote repository
   from where you get all the JAR files but it also has a local repositories. so, in our machine we will be having
   a local repository, so every time you ask for a dependency , now it will first search for local repository, if its not there
