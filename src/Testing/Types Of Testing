@@ -11,7 +11,7 @@
                        such as adding,deleting and modification/fixing the defect is not affecting the
                        unchanged features of an application)
 
-                        Types Of Regression Testing:
+                       Types Of Regression Testing:
                         . Unit Regression Testing- Testing only the changes/modifications made by the developer
                         . Regional Regression Testing- Testing the changed part/module and the impacted modules
                                                        (Impact Analysis Meeting is held to discuss the
@@ -24,4 +24,13 @@
 
 
 
->
+> Functional Testing - Testing the Functional Requirements/Features of the software is known as Functional Testing.
+                       Functional Testing falls under the category of the Blackbox testing.
+                       e.g; If the client clicks this button, it should open up the home page.
+
+> Non-Functional Testing - Testing the performance of your software, the load/capacity they handle, how reliable
+                           is the software and it also talks about the scalability of the software.
+
+> Black Box Testing - Testing the functionality of an application without actually looking at the code.
+                       e.g; The analogy goes like there is a box which is black, inside that there is code.
+                       so, you have to test the code which is not visible to you

@@ -1,15 +1,57 @@
 > Windows Command Prompt also known as "cmd"
 
+** To Copy a command/content from cmd just double click and drag to select up to which you require and then on that
+   highlighted content simultaneously mouse click (Right+Left) to copy, and then to paste it in cmd or anywhere else
+   simultaneously mouse click (Right+Left).
+
 > Useful Command Tricks/Shortcuts:-
 ------------------------------------------------------------------------------------------------------------
         Key Binding                                                        About
      ~~~~~~~~~~~~~~~~~~~~                                             ~~~~~~~~~~~~~~~~~~~
-          exit()                                       To abruptly come out/exit from the ongoing process
+     Win + R --> type "cmd"                               Shortcut to open up the command prompt
 
+          exit                                            To close the cmd
+
+          Ctrl + C                                        To abruptly come out/exit from the ongoing process
+
+          cls                                             To clear the cmd screen
+
+          prompt                                          Changes the cmd.exe command prompt.
+                                                          To change the " C:\Users\pradipta> " to anything of your choice
+                                                          e.g; prompt asdf -> will show like " C:\Users\asdf> "
           
+                                                          For more Real-time modifications type " prompt /? " which will
+                                                          show you more values to use in your modifications
+                                                          e.g; prompt parida $D $T $$
 
+                                                          To change it back to original as " C:\Users\pradipta> " type " prompt "
 
+        color list                                        Shows available colour list for the cmd.
+                                                          e.g;  " color A "
 
+        doskey /history                                   Displays all the keywords/commands history that we have used.
+            (or)
+         ^ (upward key)                                   Upward Key of keyboard , takes you to the last used command
+         |                                                and successive hitting takes you further back to all the previous command used
 
+            (or)
+             f7                                           Hitting (f7) key opens up an GUI, which shows all the previous command used.
+                                                          To choose the command, just select the command through Up/Down key and hit Enter
 
+        tasklist                                          Displays all the applications/services running in the background, with more details.
+
+        help                                              Displays all the commands used in a cmd.
+
+        netsh wlan show wlanreport                        Generates a Html file,report on your internet connection.
+
+        ipconfig                                          Displays all the internet IP related stuff.
+
+        sfc /scannow                                      To run scan on the whole system.
+
+        tracert <website address>                         Displays the route/path that follows to access the server.
+                                                          e.g; tracert www.google.com
+
+        ping <website address>                            Displays pings related to a website
+
+        powercfg /batteryreport                           Displays battery report(works only for laptop devices)
 
