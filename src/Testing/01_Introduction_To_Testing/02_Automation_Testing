@@ -1,0 +1,29 @@
+> What is Software Testing?
+  . Software Testing is a process of verification and validation to ensure a defect free application to client
+
+> What is Manual Testing and Automation Testing?
+  . Performing Testing on the application/product with the human interaction is called "Manual Testing"
+  . Performing Testing on the application/product with the help of some 3rd party-tools is called "Automation Testing"
+
+> Advantages of Automation Testing:
+  . Repeatability
+  . Time Saving
+  . Reducing Man Power
+  . Accuracy
+  . Reducing the Production Defects
+
+> Disadvantages of Automation Testing:
+  . License cost of the Tools
+  . Lack of technical knowledge of the resources
+  . Will not support for all the technologies
+
+> Different Types Of Automation Tools:
+  As per the usage automation tools are divided into three types
+  1. Functional Testing Tools - QTP(Quick Test Professional),Selenium
+  2. Test Management Tools - Jira
+  3. Performance Tools -
+
+>
+
+
+

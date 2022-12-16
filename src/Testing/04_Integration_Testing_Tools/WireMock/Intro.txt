@@ -1,0 +1,20 @@
+> WireMock - Mock your APIs for fast,robust and comprehensive testing.
+
+> Mostly used in Microservices architecture, as an integration testing(trying to simulate like production environment before
+  sending to actual production environment)
+
+> Mocking of Microservices - It refers to mocking of microservice, which is yet to be developed and in near-future to be
+  interacted with other microservices.
+
+>         JUnit/End-End Testing ➡ Application under Test ➡ 3rd party-api, which will be used in your app,for which we are writing unit test.
+
+> For normal, Java-libraries we write with the help of Mockito, to mock the external dependencies.
+
+> WireMock is a simulator for HTTP-based APIs. Considered as a service virtualization tool / mock server.
+
+> Enables to stays productive when an API you depend on
+  . Doesn't exist
+  . Isn't Complete
+  . Costly to access
+
+> 

@@ -1,15 +1,15 @@
-> Platform - A platform is an environment that helps to develop and run programs written in any
-             programming language.
+> Software - It's a set of computer programs which will perform certain tasks.
+             we develop software based on the Client's requirement.
 
-> IDE - Integrated Development Environment(basically an application that contains an Editor for writing code
-        as well as Build and Debugging tools)
+> Client - It is a computer hardware device/software that accesses a service made availability by a server.
+           The server is often (but not always) located on a separate physical computer.
 
->                  Framework                                                             Library
-   ================================================================================================================                                                                 
-    Framework,is like the foundation upon which           Libraries provide developers with predefined functions  
-    developers build applications for specific            and classes to make their work easier and boost the 
-    platforms.                                            development process.                     
+> Server - It is a physical computer dedicate to run service to serve the needs of other computers.
+           Depending on the service that is running, it could be a file server,database server,home media server,
+           print server or web server.
 
+            Laptop, Mobile,Desktop ➡ Internet ➡ Server
+                  (Clients)
 
 > How a Website works, in general?
   . A Website is nothing but a bunch of files that are stored on a computer that is called as Server
@@ -27,6 +27,18 @@
         .HTML-is what tells the browser that there is going to be a Button there
         .CSS-defines the color of text and button
         .Javascript- tells the browser what action to perform, when this button is clicked
+
+> Platform - A platform is an environment that helps to develop and run programs written in any programming language.
+
+> IDE - Integrated Development Environment(basically an application that contains an Editor for writing code
+        as well as Build and Debugging tools)
+
+>                  Framework                                                             Library
+  =================================================================================================================
+    Framework,is like the foundation upon which           Libraries provide developers with predefined functions  
+    developers build applications for specific            and classes to make their work easier and boost the 
+    platforms.                                            development process.                     
+
 
 > What is an OS(Operating System)?
   .

@@ -1,4 +1,35 @@
-> An epic is a large body of work that can be broken down into a number of smaller stories,or sometimes 
-  called “Issues” in Jira.
+> Test Management Tools -
 
-> 
+> Bug reporting & Tracking Tools -
+
+> Agile Tools - To automate the agile process. e.g; Jira(by Atlassian),VersionOne,Teamcity...
+
+> Jira - It's a Agile Project Management Tool.
+========================================================================================================================
+Jira Terminologies :~
+~~~~~~~~~~~~~~~~~~~~~~
+> Epic - It is a large body of work that can be broken down into a number of smaller stories,or sometimes
+  called “Issues” in Jira.
+  An Epic is High Level requirement.
+
+> Issues can be referred as Epic, Story, Task
+
+> Reports available in Jira - Epic burn down, Sprint burn down, Release burn down
+
+> Jira can be used to write Test Cases
+
+> Sprint Planning :-
+  . Sprint items are prioritized during sprint planning
+  . what can be delivered in the sprint and how that work will be achieved
+  . confirm team velocity and capacity
+
+> Sprint Burn-down chart :-
+  . It's a graphic representation that shows the rate at which work is completed and how much work remains to be done
+
+> Story Point - field used to enter estimates in JIRA
+
+> Workflow in JIRA :-
+  . Statuses of User Stories
+  . Statuses of Bugs
+  . Statuses of Epics
+

@@ -1,0 +1,34 @@
+> The Apache JMeter(Performance testing tool) is pure Java open source software(Jmeter is based on java platform),which
+  was first developed by Stefano Mazzocchi of the Apache Software Foundation,designed to load test functional behaviour
+  and measure performance.
+
+> JMeter is used to analyze and measure the performance of web applications / a variety of services.
+
+> Performance Testing - testing a Web Application against heavy load,multiple and concurrent user traffic.
+
+> JMeter originally is used for testing Web Application / FTP(File Transfer Protocol) application. Nowadays, it is used
+  for a functional test, database server test and API testing etc.
+
+> JMeter Advantages;
+    . Open-Source License            . Full multi-threading framework   . Support multi protocol
+    . Friendly GUI                   . Highly Extensible                . Unlimited Testing Capabilities
+    . Platform Independent           . Visualize Test Result            . Easy Installation
+
+> JMeter Work in brief;
+  . Create Request to target server  ➡ Server Responds ➡ Saves all Responses ➡ Collect and Calculate Statistical info
+                  ⬇            ↖                             ⬅                        ⬇
+           Generate Test Report
+
+  . This Loop goes on
+
+-------------------------------------------------------------------------------------------------------------------------
+
+> What is Element in JMeter?
+  . The different components of JMeter are called Elements.Each Element is designed for a specific purpose.
+
+  . Here, Thread Group is an Element, under which there are lot of elements such as Samplers,Listener etc.., under which
+    there a lot of sub-system such as
+
+                                          Thread Group
+                                                ⬇
+          Samplers, Logic Controllers, Listeners, Configuration Elements, Assertions, Timers, Processor

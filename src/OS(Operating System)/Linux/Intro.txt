@@ -1,0 +1,6 @@
+> Linux is a Unix-like OS developed by Linus Torvalds and thousands of opensource contributors.
+
+> Linux is an Operating System. It is reliable and secure than others; Also its completely opensource.
+  Launch Date : 17September,1991
+
+>

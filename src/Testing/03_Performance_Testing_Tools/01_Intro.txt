@@ -1,0 +1,6 @@
+> There are several ways to test the performance of an application;
+  . Load Testing - users logged into the application as expected by client
+  . Stress Testing - users count increases while logged into your application
+  . Volume Testing - multiple users logged into your application
+  . Endurance Testing - for how much time the multiple users are logged in the application
+  . Spike Testing - unexpected events where multiple users get logged in.

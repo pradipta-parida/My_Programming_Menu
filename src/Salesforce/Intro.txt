@@ -1,0 +1,36 @@
+> CRM - "Customer Relationship Management" and it's a software that stores customer contact information like names,address,
+        and Phone numbers as well as keeps track of Customers Activity like website visits,phone calls,emails and more.
+
+> What CRM does?
+
+  . Contact,Lead and Opportunity Management
+  . Deal Tracking
+  . Product Planning,Manufacturing Planning and Shipping
+
+> What is Salesforce CRM?
+
+  . Salesforce is the world's #1 CRM Platform. Their Cloud-based applications for sales,service,marketing and more don't
+    require IT experts to set up or manage, simply log in and start connecting to customers in a whole new way.
+
+> HOW Salesforce CRM is different from Legacy CRM?
+
+  . Legacy Platform(6-12 Months)
+
+    Any Idea comes to ➡ Buy Hardware ➡ Installing ➡ Defining User ➡ Setup Reporting ➡ Building ➡ Building
+     an organization      and setup       Software      Access            and Analysis       Security     App
+
+  . Salesforce Platform(Days/Week)
+
+    Any Idea comes to ➡ Salesforce Cloud Platform ➡ Connect Desktop/Mobile Device to salesforce
+     an organization
+
+> Services Nature of Salesforce;
+  . Salesforce as SaaS : Software as a service.
+       No installations,setup or download required.Login and use software across the cloud
+
+  . Salesforce as PaaS : Platform as a service.
+       No separate platform required.Develop and code on salesforce platform to create and deploy applications.
+
+  . Salesforce as IaaS : Infrastructure as a service.
+       No hardware or installations required.All your data and applications are stored and secure on salesforce cloud.
+

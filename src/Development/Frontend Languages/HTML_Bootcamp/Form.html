@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        How to Create a Form Page
+    </title>
+</head>
+<body>
+<h1>Online Form</h1>
+<form>
+    First Name:<input type="text"> <br> <br>
+
+    Last Name : <input type="text" value="Parida"> <br> <br>
+    <!-- For example, if you have an <input type="text"> element,
+    you can use the value="" attribute to specify the default text that appears inside the input field:-->
+
+    Password : <input type="password"> <br> <br>
+
+    Gender :- <input type="radio" name="Gender" value="Male">Male
+             <input type="radio" name="Gender" value="Female">Female <br> <br>
+    <!-- name attribute is written such as to choose either of the input type, if we change the "value" of name
+     attribute then, html will think as if two separate radio button/checkboxes and can check both of them
+     simultaneously,for example in Subject-->
+    <!-- name="" attribute is provided, because we need to select either choice option -->
+
+    Subject : <input type="checkbox" value="English">English
+              <input type="checkbox" value="Hindi">Hindi
+              <input type="checkbox" value="Odia">Odia
+              <input type="checkbox" value="Telugu">Telugu <br> <br>
+              <input type="submit" value="Click Here">
+    <!-- name="" attribute is not provided, because we need to select multiple choice option -->
+
+</form>
+</body>
+</html>

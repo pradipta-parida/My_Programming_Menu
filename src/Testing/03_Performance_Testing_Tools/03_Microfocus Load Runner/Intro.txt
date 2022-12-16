@@ -1,0 +1,24 @@
+> Course Reference : https://www.youtube.com/watch?v=UkZUXu6QEEI&list=PLYtAmt7gziDVc_qZ2Ec0OGqhqTQnxojDz&index=3
+
+> This is a Performance testing tool, which helps to measure performance related parameters for your application.
+
+> LoadRunner Architecture -LoadRunner community edition consists of 4 major components - VUGen , Controller , Analysis , Agent Machine/Load Generator
+
+   . VUGen - producing the script for Virtual User Generator(VUGen), which is an IDE(editor) that allows you to prepare
+             the script which you want to run(can replicate/simulate application based real-time client needs)
+   . Controller - allows you to apply loads on the VUGen script. so,once the users script is finalized, controller controls
+                  the load simulation
+   . Load Generators - creates instances of users like(different machines)
+   . Analysis - controller creates a dump of results in raw form. All the information is logged into microsoft access database
+                named output.mdb , the analysis component reads this database file to perform various types of analysis and generates
+                graph to check for any errors/fault
+
+> Download "Web Tours Sample Application" from Micro focus which we will be using as a Demo application to test/use LoadRunner.
+
+> The File which we create in VUGen is called as a user script and named as <something>.usr
+  .This to create one user instance with the activity you want to perform.
+
+> Click the + button to add a new script
+
+> Single Protocols : set of rules which basically your application is built upon
+  Multiple Protocols : for application using multiple set of protocols simultaneously
