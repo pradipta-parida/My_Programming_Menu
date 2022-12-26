@@ -1,0 +1,13 @@
+> Youtube Link - https://www.youtube.com/watch?v=CELj-DCB0go
+
+> Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.It is an architecture framework for building out web applications
+
+> "package.json" file contains all the information which is required for your application to work like dependencies
+
+> "npm install" bash command will install additional packages/libraries that is required, need to bash in the package.json directory.
+
+> In the Forefront-->User interacts only with the "Client" of the web application, the rest is handled by "Server".
+
+> Behind the scenes--> Client/Frontend ---------------- Server ------------------ Database
+                       (Frameworks like             ()
+                       Angular and React JS)

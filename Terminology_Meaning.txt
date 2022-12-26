@@ -33,6 +33,14 @@
 > IDE - Integrated Development Environment(basically an application that contains an Editor for writing code
         as well as Build and Debugging tools)
 
+> Runtime Environment - A runtime is merely a platform for executing commands. Popular runtimes like JRE’s (Java Runtime Environment) and Node.js (a JavaScript runtime environment) process code and produce results.
+  They do not enforce any development patterns,they merely run the code.
+
+  Framework - A framework focuses more on best practices, i.e. the way you should write code.
+  Frameworks are typically opinionated, designed to produce predictable outcomes. For example, the Express framework is an opinionated way to create a web server that runs on the Node.js runtime. Without this framework,
+  it is still possible to create a web server from scratch upon Node.js….. but it can be time-consuming and requires you to know all the nuances of how a web server works.
+  Frameworks are often used to fill knowledge gaps or simply make developers more efficient by providing reliable/predictable outcomes.
+
 >                  Framework                                                             Library
   =================================================================================================================
     Framework,is like the foundation upon which           Libraries provide developers with predefined functions  

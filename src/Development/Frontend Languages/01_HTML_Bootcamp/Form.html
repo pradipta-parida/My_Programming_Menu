@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>
+        Forms In HTML
+    </title>
+</head>
+<body>
+
+<h1>HTML Online Form</h1>
+<hr/>
+
+<form action="url" method="get">
+    <label for="fname">First Name</label> <br>
+    <input type="text" placeholder="First Name" name="" id="fname"> <br> <br>
+
+    <label for="lname">Last Name</label> <br>
+    <input type="text" value="Parida" id="lname"> <br> <br>
+    <!-- For example, if you have an <input type="text"> element,
+    you can use the value="" attribute to specify the default text that appears inside the input field:-->
+
+    <label for="email">E-Mail Id</label> <br>
+    <input type="text" value="" id="email"> <br> <br>
+
+    <label for="Mobno">Mob No.</label> <br>
+    <input type="number" value="" id="Mobno"> <br> <br>
+
+    <label for="dob">DOB</label> <br>
+    <input type="datetime-local" id="dob"> <br> <br>
+
+    <label for="pswd">Password</label> <br>
+    <input type="password" id="pswd"> <br> <br>
+
+    <label for="desc">Describe Yourself</label> <br>
+    <textarea id="desc" rows="10" cols="50" placeholder="Enter Your Description..."></textarea>> <br> <br>
+
+    <a href="https://codepen.io/prparida/pen/bGjGbeN?editors=1000">Online Editor Access</a> <br>
+
+    <img src="C:\Users\prparida\Desktop\My_Programming_Menu\src\Development\Frontend Languages\HTML_Bootcamp\download.jpg" alt="Image">
+    Gender :- <input type="radio" name="Gender" value="Male">Male
+              <input type="radio" name="Gender" value="Female">Female
+              <input type="radio" name="Gender" value="Others">Others
+              <br> <br>
+    <!-- name attribute is written such as to choose either of the input type, if we change the "value" of name
+     attribute then, html will think as if two separate radio button/checkboxes and can check both of them
+     simultaneously,for example in Subject-->
+    <!-- name="" attribute is provided, because we need to select either choice option -->
+
+    Subject : <input type="checkbox" value="English">English
+              <input type="checkbox" value="Hindi">Hindi
+              <input type="checkbox" value="Odia">Odia
+              <input type="checkbox" value="Telugu">Telugu <br> <br>
+
+    Upload File:  <input type="file" multiple> <br>
+    Input Image:  <input type="image"> <br>
+    Input Color:  <input type="color"> <br>
+    Input Hidden: <input type="hidden"> <br>
+    Input Range:  <input type="range"> <br><br>
+    Input Ratio:  <input type="ratio">
+    <!-- Displays File Upload Interface and multiple allows to upload multiple files at a time -->
+
+              <input type="button" value="Submit">
+              <input type="reset" value="Reset">
+    <!-- name="" attribute is not provided, because we need to select multiple choice option -->
+
+</form>
+</body>
+</html>

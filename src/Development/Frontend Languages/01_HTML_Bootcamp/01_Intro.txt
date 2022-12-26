@@ -1,0 +1,101 @@
+> HTML = "Hypertext Markup Language".(Structure Language - What to Display)
+         It's a front-end technology.Creates visual elements of a web page.This process is called rendering.
+         so, HTML is used to render visuals, while javascript used to manage information.They both work together.
+
+> Some examples of Open Tag:- <br/> , <image/>
+                   Close Tag:- <h1></h1>
+                               <b></b>
+                               <i></i>
+                               <center></center>
+
+> HTML Syntax's are case-insensitive , but it's preferred to be in lower case
+
+> HTML Syntax's :-
+------------------------------------------------------------------------------------------------------------------
+
+<button>Press Me</button>                    --->    <button> </button>  are called tags
+                                                        |           |
+                                                        V           V
+                                                     open tag    Close tag
+
+Press Me                                     --->    Content/label
+
+<!DOCTYPE html>                              --->    Instructs the webpage about the type of document
+
+<html lang="en"></html>                      --->    Start and End Document and the language we are using to write the HTML code
+
+<!DOCTYPE html>                              --->    Instructs the webpage about the type of document
+
+align="center"                               --->    To align any content at center of the webpage
+
+<h1><h2><h3><h4><h5><h6>                     --->    Headers Size 1-6(large-small)
+
+<br> or </br>                                --->    Break Tag, used for break or space b/w lines. More break tags,the more space
+
+<p></p>                                      --->    To insert Paragraph content
+
+&nbsp                                        --->    (Non-breaking space)To be included b/w the words,where you don't want to use break tag,and wish to add more spaces
+
+<strike></strike>                            --->    Strike through
+
+<b></b>                                      --->    Bold the Text
+<i></i>                                      --->    Italics Font
+<u></u>                                      --->    Underline the Text
+
+<a href="url">text</a>                       --->    Basic Link
+
+<img src="url" alt="text">                   --->    Basic Image
+
+<iframe></iframe>                            --->    To embed and display YouTube video/map/someone's website in our page(search for Embed and copy past the whole iframe tag)
+
+width = "Number"                             --->    Line/Image width by number
+height = "Number"                            --->    Line/Image height by number
+border = "Number"                            --->    Border Thickness
+color = "#tnumber"                           --->    Colour
+
+<block quote></block quote>                  --->    Quote text block
+
+<label>                                      --->    Used to provide a usability improvement for mouse users i.e, if a user clicks on the text within the <label> element, it toggles the control.
+
+placeholder                                  --->    Displays preview of the input box
+
+<sub>                                        --->    To make an element subset (e.g; H2O)
+
+<sup>                                        --->    To make an element superset (e.g; 1st)
+
+<ul></ul>                                    --->    Un-Order List (e,g; disc,circle,square)
+<li></li>                                    --->    List Tag used b/w <ul> or <ol>
+<ol></ol>                                    --->    Order List (e.g; Number,alphabetic,Numeric)
+
+color,size,face                              --->    Represents colour,font size and font style of any content
+
+multiple                                     --->    Used in Upload Button,to upload multiple files
+
+rel                                          --->    Relation to an element
+
+href                                         --->    Hyper-reference link
+
+<hr> or <hr/>                                --->    Insert an Border(Horizontally) in webpage
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+> For any, src type of contents(pdf,img,video) we need to have all these type of files inside the project folder,
+  or else it will be unable to find the source of the data
+
+> There are two type of List in HTML;
+
+             Unordered List                                                            Ordered List
+            ----------------                                                         ----------------
+            .item                                                                      1. First Item
+            .item                                                                      2. Second Item
+            .item                                                                      3. Third Item
+            .item                                                                      4. Fourth Item
+            .item                                                                      5. Fifth Item
+            .item                                                                      6. Sixth Item
+
+> By default, the <head> tag displays the "name_you_saved_your_file".html in the browser tab. If you want to change
+  it , to a customized name for your tab we use <title> tag
+
+>
+

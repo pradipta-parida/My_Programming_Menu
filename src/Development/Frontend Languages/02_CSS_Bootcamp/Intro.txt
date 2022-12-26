@@ -1,0 +1,15 @@
+> CSS = "Cascading Style Sheet".(Style Language - How to Display)
+        CSS describes how HTML elements are to be displayed on screen,paper or in other media
+
+> Basic syntax of css;
+
+        p {                                               p {
+            color:blue;                                         color:blue;
+                                                                font-size:12px;
+        }                                                 }
+
+> Here, p = SELECTOR , select HTML elements to style (paragraph tag)
+        color = Property Name
+        blue = Value
+
+> It's a best practice to use ;
