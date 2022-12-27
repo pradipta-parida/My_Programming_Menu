@@ -10,6 +10,8 @@
 
 > HTML Syntax's are case-insensitive , but it's preferred to be in lower case
 
+> In VSCode for HTML pages --> for generating boilerplate just, ! and folowed by tab
+
 > HTML Syntax's :-
 ------------------------------------------------------------------------------------------------------------------
 
