@@ -41,6 +41,10 @@
   it is still possible to create a web server from scratch upon Node.js….. but it can be time-consuming and requires you to know all the nuances of how a web server works.
   Frameworks are often used to fill knowledge gaps or simply make developers more efficient by providing reliable/predictable outcomes.
 
+> Boilerplate Code - In computer programming, boilerplate code, or simply boilerplate, are sections of code that are repeated in multiple places with little to no variation. 
+  When using languages that are considered verbose, the programmer must write a lot of boilerplate code to accomplish only minor functionality. 
+  e.g; In HTML the <!DOCTYPE html> and all the stuff that comes under it are known as Boilerplate
+
 >                  Framework                                                             Library
   =================================================================================================================
     Framework,is like the foundation upon which           Libraries provide developers with predefined functions  
@@ -50,3 +54,9 @@
 
 > What is an OS(Operating System)?
   .
+
+> Terminal - On Mac and Linux, this is usually called Terminal.
+  
+  Powershell / Command Prompt - On Windows, this is called as Powershell / Command Prompt
+
+>  

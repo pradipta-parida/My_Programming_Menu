@@ -1,0 +1,19 @@
+> Youtube Link - https://www.youtube.com/watch?v=WMn_2ItCNJI&list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm&index=3
+
+> Selenium is an Open Source Test Automation Tool.
+
+> Key components of Selenium are (Selenium Webdriver, Selenium IDE, Selenium GRID, Selenium RC) and the most popular
+  is "Selenium Webdriver".
+
+> Exclusively used for testing Web applications on multiple browsers(Web Driver) like Firefox, Chrome, IE, 
+  Edge, Safari, Opera
+
+> Selenium supports multiple operating systems(Platforms) like Windows,MacOs,Linux
+
+> Selenium supports multiple programming languages like Java,Python,C#,Javascript,Ruby etc.
+
+> 
+
+>
+
+>

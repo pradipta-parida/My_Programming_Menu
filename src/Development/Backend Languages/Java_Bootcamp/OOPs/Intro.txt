@@ -1,0 +1,10 @@
+> OOPs - Object Oriented Programming systems
+
+> OOPs was introduced to bring real-life object into Programming
+
+> Suppose a Car, the blueprint of the newly designed car is known as Class and all the material/things inside it
+  is known as Object.
+
+> Functions which are defined inside a Class is known as Methods.
+
+> 

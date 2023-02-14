@@ -1,7 +1,9 @@
 > Youtube Link- https://www.youtube.com/watch?v=xdMKqF52TtI
+                https://www.youtube.com/watch?v=AA7i2GcTGwU
 
 > What is a Database?
    ~ An organised collection of data stored in electronic format.
+   ~ A method for accessing and manipulating that data
    ~ Data ---> Database -----> We can . Access the Data
                                       . Manipulate the Data
                                       . Update the Data
@@ -9,9 +11,10 @@
 > What is DBMS?
    ~ DBMS = Database Management System.
    ~ It is a system software for creating and managing Databases.
-   ~ client/End User <----->              DBMS                    <-------> Database
-                           (instructions to query/modifying data)
-                           (will execute our instructions on database)
+   ~ client/End User/App <----->              DBMS                    <------->             Database
+                              (instructions to query/modifying data)           (Gigantic Collection of organised data)
+                             (will execute our instructions on database)
+                             (e.g:- PostgreSQL,MySQL,Oracle Database,SQLite)
 > Types Of DBMS:-
    ~ Relational- we store data in tables that are linked to each other using relationships.Each table stores data
                  about a specific type of object like customer,product,order and so on.. 

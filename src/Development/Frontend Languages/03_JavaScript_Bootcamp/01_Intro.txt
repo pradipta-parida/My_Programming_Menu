@@ -1,5 +1,7 @@
+> Youtube Link - https://www.youtube.com/watch?v=W6NZfCO5SIk
+
 > Javascript is the only language that can run in a browser.Javascript is a high-level-object oriented scripting language.
-  Javascript builds on top of html.It was created by Bernard Eich at Netscape in 1995. 
+  Javascript builds on top of html.It was created by Bernard Eich at Netscape in 1995.
 
 * Syntax- Like Grammar, rules for how each programming language is written.
 * High-Level Programming Language - enables programmer to write programs that are more or less independent of a particular type of computer.
@@ -37,6 +39,9 @@
 
   /* This is a
      multi-line comment. */
+
+
+  In, VS code we can use ctrl + / to comment any code.
 
 > var = keyword used for storing variable
 

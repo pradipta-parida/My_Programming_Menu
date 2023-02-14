@@ -1,0 +1,73 @@
+> Various Mobile OS
+ -------------------------------------------------------------------------------------------------------------
+ Operating System                      Developed By                       Popularity
+ =============================================================================================================
+     Andriod                            Google Inc                           High
+       iOS                               Apple Inc                           High
+    Blackberry                         Blackberry Ltd                        Low
+     Windows                            Microsoft Inc                       Medium
+
+> Types Of Mobile Apps
+ -------------------------------------------------------------------------------------------------------------
+ . Mobile Web App
+   =================
+    Web apps are not real applications,they are actually websites that open in your smartphone with the help of a 
+    web browser.Mobile websites have the broadest audience of all the primary types of applications
+
+ . Native App
+   =================
+   A native app is developed specifically for one platform.It can be installed through an application store(such as 
+   Google Play Store or Apple's App Store).
+   Example- Whatsapp, Facebook. This app can use all the system application's(the apps which comes by default with 
+   your mobile)
+
+ . Hybrid App
+   =================
+   Hybrid Apps are a way to expose content from existing websites in App format.They can be well described as a 
+   mixture of Web App and Native App.
+
+> Tools Available
+ --------------------------------------------------------------------------------------------------------------
+ . APPIUM - iOS, Andriod, Multiple Languages, Without APK File, API Level >17, Sacalability, Parallel Execution, Real and Virtual Dev
+ . Selendroid - Andriod, Multiple Languages, With APK File, API Level< 17,Parallel Execution
+ . iOS Driver - iOS
+ . Calabash - iOS, Andriod
+ . MoneyTalk
+ . Frank
+ . KIF(Keep It Functional)
+ . Robotium
+
+> Appium Advantages
+ ---------------------------------------------------------------------------------------------------------------
+ . Cross-platform : Andriod & iOS - can test native,web app,hybrid
+ . Allows you to communicate with other apps, Ex: Whatsapp
+ . No pre-compilation of your app
+ . support for built-in-app : alarm,phone,calendar etc.
+ . Any webdriver compatible language is supported : Java,Objective C,Ruby,php,C#: we just need language 
+   specific libraries to work on
+
+> Limitations Of Appium
+ -----------------------------------------------------------------------------------------------------------------
+ . For Andriod,No support for Andriod API Level < 17 (for Andriod v>4.1) if your mobile having less than 17 then 
+   we need to go for Selendroid
+ . Script Execution is very slow on iOS platform and Andriod virtual devices
+ . No support for Toast messages : we can handle this
+ . No parallel execution directly: we can handle using sauce labs.
+
+ > What is Appium?
+ -----------------------------------------------------------------------------------------------------------------
+ . Appium is a mobile web, native and hybrid software application test automation tool developed and supported by Sauce Labs.
+ . It is open-source software automation tool which is useful to automate Andriod and iOS platform apps.
+
+> Appium Architecture/ How Appium works?
+ ------------------------------------------------------------------------------------------------------------------
+ . As Appium is an HTTP server(webserver),its perform pretty much same as Selenium Webdriver server
+ . Appium works as a Client/Server architecture
+ . To JSON wire protocol the communication will happen with session ID's only
+ . Whenever the Client sends a request the server will create a session and it will send back session ID to the client so
+   that the future communication between client and server will happen with this session ID only
+ . Q) How come the server will identify which session it needs to create?
+   A) Usually, the client has desired capabilities which we need to pass using which the session will be created.
+      This contains application name, platform version,package name,activity name
+ 
+

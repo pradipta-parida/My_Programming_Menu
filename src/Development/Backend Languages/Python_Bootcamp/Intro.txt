@@ -1,3 +1,7 @@
+> Youtube Links - https://www.youtube.com/watch?v=t8pPdKYpowI
+                  https://www.youtube.com/watch?v=_uQrJ0TkZlc
+                  https://www.youtube.com/watch?v=kqtD5dpn9C8
+                  
 > To Check the installed Python Version;
 
    Go to cmd --> type "python" (or) "python --version" --> hit Enter to view it
@@ -9,6 +13,15 @@
 
       Our Source Code ---> Python Interpreter ---> Running Code
 
-> 
+> If we want to run Python in Interpreted Mode in the Command Line Interface to see how easy it is to write and run Python;
+   . In Windows open cmd --> type "python"
+   . In Mac open terminal --> type "python3"
+   . It will open a command line >>> (3 angle bracket) in cmd
+   . we can type our code such as 2+2 
+                                  print("Hello World")
+                                  name = input("What is Your Name")
+   . exit() --> command will call the exit function and will exit us out of the Python Interpreter and then back
+     into the terminal command line
+   . exit --> This will entirely close out the terminal
 
->
+> 

@@ -1,7 +1,14 @@
+> YouTube Link- https://www.youtube.com/watch?v=qz0aGYrrlhU
+
 > HTML = "Hypertext Markup Language".(Structure Language - What to Display)
          It's a front-end technology.Creates visual elements of a web page.This process is called rendering.
          so, HTML is used to render visuals, while javascript used to manage information.They both work together.
 
+         Analogy :- A human skeleton is the foundation/basic of a body. so, here the skeleton in a body refers 
+         to as  html of a website
+
+> We use HTML5 for the development of HTML, as its the latest version available.
+                   
 > Some examples of Open Tag:- <br/> , <image/>
                    Close Tag:- <h1></h1>
                                <b></b>
@@ -15,12 +22,14 @@
 > HTML Syntax's :-
 ------------------------------------------------------------------------------------------------------------------
 
-<button>Press Me</button>                    --->    <button> </button>  are called tags
+<button>Press Me</button>                    --->    <button>Press Me</button>  the whole thing called statement
                                                         |           |
                                                         V           V
                                                      open tag    Close tag
 
 Press Me                                     --->    Content/label
+
+<h1 title="heading one">heading</h2>         --->    here, title or anything inside a tag refers to attribute/properties
 
 <!DOCTYPE html>                              --->    Instructs the webpage about the type of document
 

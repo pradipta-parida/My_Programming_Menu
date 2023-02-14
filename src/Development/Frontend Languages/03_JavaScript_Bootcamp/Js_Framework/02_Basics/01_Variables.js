@@ -31,7 +31,7 @@ accountPassword = "22222"
 accountCity = "Bhubaneswar"
 accountCity = "Kolkata"
 
-// To display only one value into the console
+// To display only one value into the console. In VSCode just type log and you will get option for console.log
 console.log(accountId); 
 
 //To display multiple values into the console
