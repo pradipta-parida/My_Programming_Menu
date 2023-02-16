@@ -1,4 +1,4 @@
-> Course Reference : https://www.youtube.com/watch?v=UkZUXu6QEEI&list=PLYtAmt7gziDVc_qZ2Ec0OGqhqTQnxojDz&index=3
+> Reference : https://www.youtube.com/watch?v=UkZUXu6QEEI&list=PLYtAmt7gziDVc_qZ2Ec0OGqhqTQnxojDz&index=3
 
 > This is a Performance testing tool, which helps to measure performance related parameters for your application.
 

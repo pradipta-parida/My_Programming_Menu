@@ -1,3 +1,5 @@
+> Reference - https://www.youtube.com/watch?v=YqAZi5poCmo
+
 > During 90's , the methodology being used was the Waterfall Model.
     . The Waterfall Model involves teams following a series of steps,and only going forward after the previous
       steps, and only going forward after the previous steps are completed.
@@ -13,5 +15,13 @@
     . Measuring the progress within stages is difficult
 
 > What is Agile?
-    . Agile is an approach to software development under which requirements and solutions evolve through the 
-      collaborative effort of self-organizing and cross-functional teams and their customer/end user. 
+    . Agile is an approach to software development under which requirements and solutions evolve through
+     (iterative development) the collaborative effort of self-organizing and cross-functional teams and their customer/end user.
+
+> Types of Agile Methodology ---> Scrum,
+
+> 
+
+>
+
+>

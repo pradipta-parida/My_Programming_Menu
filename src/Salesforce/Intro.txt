@@ -1,3 +1,5 @@
+> Reference - https://www.youtube.com/watch?v=sVKZInb0Zig
+
 > CRM - "Customer Relationship Management" and it's a software that stores customer contact information like names,address,
         and Phone numbers as well as keeps track of Customers Activity like website visits,phone calls,emails and more.
 

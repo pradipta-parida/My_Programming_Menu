@@ -1,3 +1,5 @@
+> Reference - https://www.youtube.com/watch?v=d6WC5n9G_sM
+
 > Kubernetes/(K8S) makes it possible to containerize applications/services and simplifies deployments to
   production.
   Deployment of the containerized applications into Production.

@@ -1,3 +1,5 @@
+> Reference - https://www.youtube.com/watch?v=pTFZFxd4hOI
+
 > Docker Containers are an alternative to VMs because they are comparatively lightweight. They contain all 
   the dependencies the application requires but without the actual OS.
 

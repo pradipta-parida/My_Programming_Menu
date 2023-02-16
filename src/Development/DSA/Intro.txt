@@ -1,3 +1,5 @@
+> Reference - https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=23
+
 > DSA - Data Structures and Algorithms
 
 > Flow chart/ Pseudo code - refers to the rough solution to a problem 
