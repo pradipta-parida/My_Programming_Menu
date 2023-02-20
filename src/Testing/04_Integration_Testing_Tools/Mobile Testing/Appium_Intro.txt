@@ -4,7 +4,7 @@
  -------------------------------------------------------------------------------------------------------------
  Operating System                      Developed By                       Popularity
  =============================================================================================================
-     Andriod                            Google Inc                           High
+     Android                            Google Inc                           High
        iOS                               Apple Inc                           High
     Blackberry                         Blackberry Ltd                        Low
      Windows                            Microsoft Inc                       Medium
@@ -30,10 +30,10 @@
 
 > Tools Available
  --------------------------------------------------------------------------------------------------------------
- . APPIUM - iOS, Andriod, Multiple Languages, Without APK File, API Level >17, Sacalability, Parallel Execution, Real and Virtual Dev
- . Selendroid - Andriod, Multiple Languages, With APK File, API Level< 17,Parallel Execution
+ . APPIUM - iOS, Android, Multiple Languages, Without APK File, API Level >17, Sacalability, Parallel Execution, Real and Virtual Dev
+ . Selendroid - Android, Multiple Languages, With APK File, API Level< 17,Parallel Execution
  . iOS Driver - iOS
- . Calabash - iOS, Andriod
+ . Calabash - iOS, Android
  . MoneyTalk
  . Frank
  . KIF(Keep It Functional)
@@ -41,7 +41,7 @@
 
 > Appium Advantages
  ---------------------------------------------------------------------------------------------------------------
- . Cross-platform : Andriod & iOS - can test native,web app,hybrid
+ . Cross-platform : Android & iOS - can test native,web app,hybrid
  . Allows you to communicate with other apps, Ex: Whatsapp
  . No pre-compilation of your app
  . support for built-in-app : alarm,phone,calendar etc.
@@ -50,20 +50,20 @@
 
 > Limitations Of Appium
  -----------------------------------------------------------------------------------------------------------------
- . For Andriod,No support for Andriod API Level < 17 (for Andriod v>4.1) if your mobile having less than 17 then 
+ . For Android,No support for Android API Level < 17 (for Android v>4.1) if your mobile having less than 17 then 
    we need to go for Selendroid
- . Script Execution is very slow on iOS platform and Andriod virtual devices
+ . Script Execution is very slow on iOS platform and Android virtual devices
  . No support for Toast messages : we can handle this
  . No parallel execution directly: we can handle using sauce labs.
 
  > What is Appium?
  -----------------------------------------------------------------------------------------------------------------
  . Appium is a mobile web, native and hybrid software application test automation tool developed and supported by Sauce Labs.
- . It is open-source software automation tool which is useful to automate Andriod and iOS platform apps.
+ . It is open-source software automation tool which is useful to automate Android and iOS platform apps.
 
 > Appium Architecture/ How Appium works?
  ------------------------------------------------------------------------------------------------------------------
- . As Appium is an HTTP server(webserver),its perform pretty much same as Selenium Webdriver server
+ . As Appium is an HTTP server(webserver wriiten in NodeJs),its perform pretty much same as Selenium Webdriver server
  . Appium works as a Client/Server architecture
  . To JSON wire protocol the communication will happen with session ID's only
  . Whenever the Client sends a request the server will create a session and it will send back session ID to the client so
@@ -71,5 +71,46 @@
  . Q) How come the server will identify which session it needs to create?
    A) Usually, the client has desired capabilities which we need to pass using which the session will be created.
       This contains application name, platform version,package name,activity name
- 
 
+> Pre-requisite to use Appium
+ --------------------------------------------------------------------------------------------------------------------
+ Pre-requisites                                           Android
+ ~~~~~~~~~~~~~~~                                      ~~~~~~~~~~~~~~~~~~~~
+ Install Java                                             Android Studio (IDE-To write code.SDK,Virtual Devices(Emulator/Simulator))
+ Eclipse                                           Appium Server / Appium Desktop
+ Maven plugin for Eclipse                               Appium Client Library
+ TestNG plugin for Eclipse
+ Selenium Standalone Software
+
+> What is an APK File?
+ ---------------------------------------------------------------------------------------------------------------------
+ . APK : Android Application Package
+ . This is similar to .exe files which are used to install programs on windows.The only difference is that
+   .apk files are designed to be used exclusively on Android device and you maybe required to download additional 
+   files before you run the application in the Android
+ . We can download apk files from various sites:
+     - https://www.apk4fun.com/
+     - https://apkpure.com/
+
+> Why we are using them and what is the use?
+ ---------------------------------------------------------------------------------------------------------------------
+ . As of now, we are going to test mobile applications means once after the application was developed, in Android it
+   will be APK file only.So, to automate that application we need APK files, generally in real time we can get this APK
+   files from the developer and for generic application we can download from playstore too.
+
+> Real Device Vs Simulator Vs Emulator
+ ---------------------------------------------------------------------------------------------------------------------
+ Q) What is real testing device?
+ A) Testing on real device allows you to run your mobile applications and checks its functionality. Real device testing
+    assures you that your application will work smoothly in customer handsets.
+
+ Q) What is Emulator & Simulator? 
+ A) Emulators and Simulators are virtual devices. A virtual device is not the real phone but software which gives same
+    functionality as the real phone (Except few functionality like the camera).
+
+  . Android Virtual Devices - Emulator
+  . iOS Virtual Devices - Simulator
+
+> AVD Manager - Android Virtual Device Manager
+
+> 

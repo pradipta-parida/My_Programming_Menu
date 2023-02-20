@@ -1,0 +1,4 @@
+> A team needs to do research,design,prototyping.what is this type of story called?
+. Exploratory Spike
+
+>

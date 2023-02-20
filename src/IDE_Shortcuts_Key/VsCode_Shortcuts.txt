@@ -2,4 +2,10 @@
 ===========================================================================================================
 > Code Formatting             Shift + Alt + F          Shift + Option + F      Ctrl + Shift + I
 
-> 
+> Show/Hide Left Ribbon           Ctrl + B
+
+> To find/replace content         Ctrl + F
+
+>
+
+>
