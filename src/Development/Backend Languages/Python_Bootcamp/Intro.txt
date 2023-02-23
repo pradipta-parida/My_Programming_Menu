@@ -4,7 +4,11 @@
                   
 > To Check the installed Python Version;
 
-   Go to cmd --> type "python" (or) "python --version" --> hit Enter to view it
+   Go to cmd --> type "python" (or) where python (or) "python --version" --> hit Enter to view it
+
+> To check path installed for Python;
+   
+   Go to cmd --> type "echo %path%"
 
 > Python Interpreter:
    . knows how to execute python code
