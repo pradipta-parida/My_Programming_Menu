@@ -1,4 +1,6 @@
 > Youtube Link- https://www.youtube.com/watch?v=_zioodkDZ4U
+                https://www.youtube.com/watch?v=3u7MQz1EyPY
+                https://www.youtube.com/watch?v=sSZJgAEnTqM
 
 > Power BI Tool- owned by Microsoft.
 
@@ -25,7 +27,7 @@
   . Lets consider Power BI as a package, we can divide the package into two parts "Power BI Desktop" and
     "Power BI Service"
   . Power BI Desktop - is a developer tool , its a desktop application 
-  . Power BI Service - is an online versio(cloud version) used for sharing and collaboration
+  . Power BI Service - is an online version(cloud version) used for sharing and collaboration
   . To create some dashboards or reports, we need some data.Power BI can pull data from excel,csv,sql,Ms Access,
     Sharepoint,outlook,pdf or from website. we can bring any no. of data sources altogether or one-by-one.
   . After, that we can do clean data, data modelling and also we can create different charts or maps.

@@ -1,12 +1,14 @@
 """
 Different Data Types can do different things:
 
-Text Type : String(str)
+Text Type : String(str) -> Built-in data type representing unicode characters. These are created using 
+                           single quotes,double quotes, or even triple quotes.
 
-Number Type :
-            Integer(Int) Whole number, positive or negative, without decimals
+Number Type :  Numeric types recognized by python (int,float,complex)
 
-            Floating Point Number(Float) number, positive or negative, containing 1 or more decimals
+             . Integer(Int)[a built-in data types for integers] Whole number, positive or negative, without decimals
+             . Floating Point Number(Float)[a bilt-in data type for numbers with decimal] number, positive or negative, containing 1 or more decimals
+             . Complex[a bilt-in data type for numbers with real and imaginary components ]
 
 """
 

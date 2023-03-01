@@ -2,8 +2,8 @@
 To avoid duplicating a whole line or whole piece of code basically which has multiple different stuff
 in it .
 
-Functions - are basically smaller blocks of code, used to avoid repeating. It gives us a way of organizing 
-our programs, so that they are more understandable and modular 
+Functions - are basically pieces that execute an action/functionality(e.g; takes in an argument or returns an output can iterate repeatedly). 
+            It gives us a way of organizing our programs, so that they are more understandable and modular 
 
 """
 

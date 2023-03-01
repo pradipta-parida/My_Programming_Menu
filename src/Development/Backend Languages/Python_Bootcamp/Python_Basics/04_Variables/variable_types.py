@@ -71,6 +71,8 @@ print("String Type" + " " +str(123))
 # Global Vs Local Variables in Functions
 """
 In Python, Indentation by some spaces before line of codes indicates they belong to some functions.
+
+Global Variables - variables that are defined outside of a function and can be used within and outside functions
 """
 # def someFunction():
 #     mystr = "Good" # Local Variable (declared inside a function)

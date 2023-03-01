@@ -1,0 +1,26 @@
+> Reference - https://www.youtube.com/watch?v=_8FgWep9qEk&list=PLWPirh4EWFpGVCiWT0mVjK8exoq78LmkD
+
+> What is a a Mainframe?
+  . A system,which is capable of handling and processing very large amount of data
+  . High performance system, which can support multiple users
+  . It is used by organizations like banking,insurance,retail etc.
+
+> Software Environments - TSO & ISPF
+  . TSO & ISPF are Mainframes Software Environment
+  . TSO (Time Sharing Option) : Allow multiple users to use the operating system at the same time
+  . ISPF(Interactive System Productivity Facility) : It is a Software which runs on IBM Mainframes
+
+> Basic Commands for Navigation:
+  
+  PFSHOW   -  Displays information about function keys
+  F1       -  Help
+  F2       -  Split
+  F3       -  Exit
+  F7       -  Up
+  F8       -  Down
+  F9       -  Swap
+
+
+
+
+
