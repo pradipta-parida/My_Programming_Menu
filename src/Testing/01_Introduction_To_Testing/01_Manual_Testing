@@ -37,3 +37,7 @@
 > Black Box Testing - Testing the functionality of an application without actually looking at the code.
                       e.g; The analogy goes like there is a box which is black, inside that there is code.
                       so, you have to test the code which is not visible to you.
+
+> Exploratory Testing - is a type of software testing in which the tester is free to select any possible methodology to test the software.
+                        It is an unscripted approach to software testing.
+                        For example, you might perform one test and then ask yourself, “What if I tried this? What if I didn't do that?”
