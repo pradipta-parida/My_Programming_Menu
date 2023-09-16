@@ -1,5 +1,6 @@
 > Smoke Testing - is the initial testing process exercised to check whether the software under test is
                   ready/stable for further testing. It is also known as build acceptance testing.
+
 > Retesting - After a bug is fixed, we perform a retest on that functionality to validate the proper functioning, 
               with expected results
 
