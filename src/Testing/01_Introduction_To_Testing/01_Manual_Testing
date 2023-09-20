@@ -41,3 +41,6 @@
 > Exploratory Testing - is a type of software testing in which the tester is free to select any possible methodology to test the software.
                         It is an unscripted approach to software testing.
                         For example, you might perform one test and then ask yourself, “What if I tried this? What if I didn't do that?”
+
+> Integration Testing - is to validate that different software components, subsystems, or applications work together as a system to achieve 
+                        the desired functionality and performance
