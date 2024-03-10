@@ -8,11 +8,16 @@
                    changes in code, or functionality, to ascertain that the bugs have been fixed and no
                    further issues are introduced due to these changes.
 
-> Regression Testing - is a type of software testing which ensures that previously developed and tested
-                       software application working in the same way as it was working before recent
-                       code/configuration changes done.(testing unchanged features of an application
-                       such as adding,deleting and modification/fixing the defect is not affecting the
-                       unchanged features of an application)
+> Regression Testing - Repeated testing of an already tested program, after modification, to discover ay defects intorduced
+                       or uncovered as a result of the changes in the software being tested or in another related or unrelated 
+                       software components.
+
+                       Usually, we do regression testing in the following cases:
+                       . New functionalities are added to the application
+                       . Change Requirement (In organizations we call its as CR)
+                       . Defect Fixing
+                       . Performance Issue Fix
+                       . Enviroment Change (E.g; Updating the DB from MySQL to Oracle)
 
                        Types Of Regression Testing:
                         . Unit Regression Testing- Testing only the changes/modifications made by the developer
