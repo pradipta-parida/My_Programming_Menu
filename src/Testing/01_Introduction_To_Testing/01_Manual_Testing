@@ -1,9 +1,6 @@
 > Smoke Testing - is the initial testing process exercised to check whether the software under test is
                   ready/stable for further testing. It is also known as build acceptance testing.
 
-> Retesting - After a bug is fixed, we perform a retest on that functionality to validate the proper functioning, 
-              with expected results
-
 > Sanity Testing - is a kind of software testing performed after receiving a software build, with minor
                    changes in code, or functionality, to ascertain that the bugs have been fixed and no
                    further issues are introduced due to these changes.
@@ -30,7 +27,47 @@
                                                    modules ,instead without wasting any time straight go for
                                                    Full Regression Testing)
 
+> Retesting - To ensure that the defects which were found and posted in the earlier build were fixed or not in the current
+              build. Defects raised by QA and on fixing it by the Dev, we do the retesting.
+              Example;
+              - Build 1.0 was released. Test team found some defects (Defect Id 1.0.1, 1.0.2) and posted.
+              - Build 1.1 was released, now testing the defects 1.0.1, 1.0.2 in this build is retesting.
 
+** Difference between Regression and Retesting:
+              Case 1: Login Page - Login button not working (Bug) ---> Re=testing and Regression Testing
+              Case 2: Login Page - Added "Stayed signed in" checkbox (New feature) ---> Regression Testing
+
+> Globalization Testing Vs Localization Testing:
+              Q) What is Localization (OR) L10N Testing?
+              A) Localization testing is the software testing process for checking the localized version of a product
+                 for that particular culture or locale settings. The areas affected by localization testing are UI and content.
+                 e.g; To test DOB format - dd/mm/yyyy
+
+              Q) What is Globalization (OR) Internationalization (I18N) Testing?
+              A) Globalization testing is to ensure that application can function in any culture or locale (language,
+                 territory and code page).  
+                 e.g; To test DOB format - mm/dd/yyyy
+
+> END-TO END Testing: Testing the overall functionalities of the system including the data integration among all the modules
+                      is called end-to-end testing.
+
+                     Login --> Add Customer --> Delete Customer/Edit Customer --> Logout
+
+> Exploratory Testing:
+                      Q) What is Exploratory Testing?
+                      A) - It is all about discovery, investigation and learning.
+                         - It emphasizes on personal freedom and responsibility of the individual tester.
+                         - Test cases are not created in advance but testers check system on the fly
+                         - The focus of exploratory testing is more on testing as a "thinking" activity
+
+                      Q) When use exploratory testing?
+                      A) - When the testing team has experienced testers
+                         - There is a critical application
+                         - Early iteration is required
+                         - New testers entered into the team
+                        For example, you might perform one test and then ask yourself,
+                        “What if I tried this? What if I didn't do that?”
+  
 
 > Functional Testing - Testing the Functional Requirements/Features of the software is known as Functional Testing.
                        Functional Testing falls under the category of the Blackbox testing.
@@ -43,9 +80,7 @@
                       e.g; The analogy goes like there is a box which is black, inside that there is code.
                       so, you have to test the code which is not visible to you.
 
-> Exploratory Testing - is a type of software testing in which the tester is free to select any possible methodology to test the software.
-                        It is an unscripted approach to software testing.
-                        For example, you might perform one test and then ask yourself, “What if I tried this? What if I didn't do that?”
+
 
 > Integration Testing - is to validate that different software components, subsystems, or applications work together as a system to achieve 
                         the desired functionality and performance
