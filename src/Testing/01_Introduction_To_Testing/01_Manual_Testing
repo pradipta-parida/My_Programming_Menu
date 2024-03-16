@@ -67,7 +67,22 @@
                          - New testers entered into the team
                         For example, you might perform one test and then ask yourself,
                         “What if I tried this? What if I didn't do that?”
-  
+> Adhoc Testing:
+                  - Adhoc testing is an informal testing type with an aim to break the system.
+                  - This testing is usually an unplanned activity (No documentation, no test design, no test case)
+                  - It does not follow any test design techniques to create test cases. This testing is primarily performed
+                    if the knowledge of testers in the system under test is very high
+                  - Testers randomly test the application without any test cases or any business requirement document.
+
+> Adhoc Testing V/s Monkey Testing V/s Exploratory Testing
+  -------------------------------------------------------------------
+  - No Documentation , No Documentation , No Documentation
+  - No Plan , No Plan , No Plan
+  - Informal Testing , Informal Testing , Informal Testing
+  - Testers should know application functionality , doesn't know app functionality , doesn't know app functionality
+  - Random Testing , Random Testing, Random Testing
+  - Intention is to break the application/ find out corner defects , Intention is to break the application/ find out corner defects , Intention is to learn or explore functioanlity of application
+  - Any applications, Gaming applications , Any application which is new to tester
 
 > Functional Testing - Testing the Functional Requirements/Features of the software is known as Functional Testing.
                        Functional Testing falls under the category of the Blackbox testing.
