@@ -1,7 +1,10 @@
 > Reference - https://www.youtube.com/watch?v=oOvURgHcd4w&list=PLUDwpEzHYYLseflPNg0bUKfLmAbO2JnE9
 
->
+> Vanity URL - A vanity URL or vanity uniform resource locator, is a shorter, more memorable version of a URL that redirects to 
+               a website's actual URL.
+               Vanity URLs are also known as custom URLs or branded URLs. They are often used in marketing to make URLs easier 
+               to remember and share, and to improve SEO. 
+               Vanity URLs can also be used to simplify the user experience and track the success of marketing efforts. y
 
->
+> 
 
->
