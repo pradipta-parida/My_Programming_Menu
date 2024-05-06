@@ -1,7 +1,17 @@
-> Youtube Link- https://www.youtube.com/watch?v=xdMKqF52TtI
-                https://www.youtube.com/watch?v=AA7i2GcTGwU
-                https://www.youtube.com/watch?v=7S_tz1z_5bA
-
+> From Spreadsheets to Databases:
+  . Let's discuss the use cases for spreadsheets software (such as Excel) Vs databases
+  . Spreadsheets    -  One time analysis
+                    -  Quickly need to chart something out
+                    -  Reasonable data set size
+                    -  Ability for untrained people to work with data
+  . Databases       -  Data Integrity
+                    -  Can handle massive amounts of data
+                    -  Quickly combine different data sets
+                    -  Automate steps for re-use
+                    -  Can support data for websites and applications
+  . Similarity:
+                    - Tabs in spreasheets = Tables in databases
+                    - Rows/Columns is the same 
 > What is a Database?
    ~ An organised collection of data stored in electronic format.
    ~ A method for accessing and manipulating that data
@@ -28,11 +38,20 @@
                    in the shared copy excel sheet.Basically, your system/server will act as a storage system and only one
                    person can access at a time.
 
-   ~ Client Server - Multiple users are accessing the same information(centralized server).If any changes are happening in the information end, then 
-                     its reflected among other users system.
+   ~ Client Server - Multiple users are accessing the same information(centralized server).If any changes are happening in 
+                     the information end, then its reflected among other users system.
+
+> SQL Database Platform Options: (SQL learned can be applied to a variety of Databases or SQL based software)
+
+     - PostgreSQL (great database choice for learning how to use SQL)
+     - MySQL/Maria SQL 
+     - MS SQL Server Express
+     - Microsoft Access
+     - SQLite
 
 > Introduction to SQL;
-   ~ SQL stands for "Structured Query Language" which is a standard language for accessing and manipulating databases.
+   ~ SQL stands for "Structured Query Language" which is a programming language used for accessing and manipulating 
+     databases.
    ~ Categories of SQL Commands:
       1. Data Query Language (DQL)-  Select
       2. Data Defination Language (DDL)- Create Table, Alter Table, Drop Table
@@ -43,5 +62,6 @@
    ~ A table is a database object which comprises Rows and Columns.
    ~ Fields/Columns - e_id, e_name, e_salary, e_age, e_gender, e_dept
    ~ Records/Rows - gives complete information of a particular entry.
+
    
 
