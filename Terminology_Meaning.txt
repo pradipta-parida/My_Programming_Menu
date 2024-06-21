@@ -59,4 +59,6 @@
   
   Powershell / Command Prompt - On Windows, this is called as Powershell / Command Prompt
 
->  
+>  Hotfix Release : A rapid release of a software patch typically applied to a live system without requiring a restart. 
+                    Hotfixes address critical bugs or security vulnerabilities that require immediate attention. 
+   Standard Release: A planned release of a software update that includes new features, bug fixes, and security patches.
