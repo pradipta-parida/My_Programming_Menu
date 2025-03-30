@@ -62,3 +62,22 @@
 >  Hotfix Release : A rapid release of a software patch typically applied to a live system without requiring a restart. 
                     Hotfixes address critical bugs or security vulnerabilities that require immediate attention. 
    Standard Release: A planned release of a software update that includes new features, bug fixes, and security patches.
+
+> System Design concepts:
+--------------------------------------------------------------------------------------------------------
+
+1. Client server Architecture:
+
+Client (web browser/mobile app) ---> Client sends a Request to (store/retrieve/modify) data
+
+Server (Machine running continiously to handle incoming requests) ---> receives the request, processes it, performs necessary                                                                        operations and sends back a Response
+
+Q) How does the client even know where to find the server?
+
+A) A client needs an address to locate and communicate with it. On Internet, computers identify each other using Ip Addresses (which works like phone numbers for server) 
+
+Every publicly deployed server has a unique Ip Address (something like 34.121.45.67)
+
+
+
+
