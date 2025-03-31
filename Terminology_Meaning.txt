@@ -82,7 +82,9 @@ But there is a problem, when we visit a website we dont type Ip address, instead
 
 When you type algomaster.io into your browser, your computer asks a DNS server for the corresponding Ip address. Once the DNS server responds with the Ip, your browser uses it to establish a connection with the server and make a request .
 
-** 
+** You can find Ip address of any domain name using the ping command
+
+2. when you visit a website, your request does not always go directly to the server. Sometimes it passes through a proxy or reverse proxy first. A proxy server acts as a middle man between your device and 
 
 
 
