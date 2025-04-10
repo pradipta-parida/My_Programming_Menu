@@ -1,0 +1,45 @@
+> Reference - https://www.youtube.com/watch?v=0kHFDV1lAuI
+
+>   JSON = JavaScript Object Notation
+
+>   It is a Data-represenation format
+
+> Used to communicate data across the web. Commonly used with APIs and Server in order to store and transform information.
+
+> Compatible with most modern languages
+
+> JSON Data Types (6 types);
+
+Type                                            Examples
+
+Numbers                                     3, -5, 1.7, 15000
+
+Booleans                                    true, false
+
+Strings                                     "hi", "John", "Insert Words"
+
+Arrays                                      [1, 4, "HEllo"], ["hi","Yo"]
+(which are used
+to store collection of data,
+instead of just one piece of data)
+
+Objects                                     {"name":"joe", age:27}
+(which are collection
+of key-value pairs)
+
+Null                                        null
+(has one possible value and thats null,
+basically just means that nothing
+is there and its typiclly what we
+use if we still want to have a piece
+of data but just have it be empty)                                        
+
+
+
+
+
+
+
+
+
+
