@@ -1,8 +1,8 @@
 > Reference - https://www.youtube.com/watch?v=0kHFDV1lAuI
 
->   JSON = JavaScript Object Notation
+> JSON = JavaScript Object Notation
 
->   It is a Data-represenation format
+> It is a Data-represenation format
 
 > Used to communicate data across the web. Commonly used with APIs and Server in order to store and transform information.
 
