@@ -35,7 +35,21 @@ use if we still want to have a piece
 of data but just have it be empty)                                        
 
 
+>  JSON file is represented as one big object. To make an object we need to use {}. And inside these curly brackets
+   we can now specify key-value pairs with any of the possible data types as mentioned above.
 
+>  To make a key we use "" and then inside of these we can name our key. To give that key a corresponding value we need to 
+   use a colon : and then we can specify the value that we want 
+
+>  Key-value pairs get separted by ,
+
+>  Last key-value pair does not need , as it marks the end of it.
+
+>  Arrays start with [] and can have any collection data type
+
+>  Nested Objects - Object inside of a object is called nested Objects
+
+>  
 
 
 
