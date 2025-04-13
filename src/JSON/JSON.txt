@@ -49,9 +49,16 @@ of data but just have it be empty)
 
 >  Nested Objects - Object inside of a object is called nested Objects
 
->  
+>  There is another way of json format. This is making the base data type an array instead of an object (users.json)
+   Now, within an array we could have anything separated by commas.
 
+>  One of the common methods for using arrays is to store an array of unnamed objects. Because its an array we can have multiple
+   entries
 
+>  In, users.json file we have an array of three unique objects. One very important design principle that you may
+   encounter is giving each object a unique ID. Notice that these objects are unnamed objects because we don't name
+   data that is stored inside of an array. Also, multiple people could share the same name, so often you'll have some 
+   unique Id for each object. so, often times you will see at the very top of an object like an Id field.  
 
 
 
