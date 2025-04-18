@@ -1,0 +1,108 @@
+> Reference: https://www.youtube.com/watch?v=QVqEPXVy_Y0
+
+Q> What is Guidewire?
+
+A> The Guidewire is the industry's #1 vendor of customer experience management (CEM) software and a leader in Property and Casualty (P&C).
+
+   . Digital product development and management
+
+   . Supply chain management
+
+   . Field service management
+
+   . Customer experience management
+
+   . Business process management
+
+   . Customer Analytics
+
+Q> What are the basic products for Guidewire?
+
+A> 1. Guidewire Policy Center - creating the policies
+   2. Guidewire Claims Center - for payments/premiums made by client and in case of claims due to accident then company uses claims center
+   3. Guidewire Billing Center - for submission and processing of claims
+
+Q> What is Guidewire Policy center?
+
+A> . Policy Center is Guidewire's insurance policy administration system (PAS)
+
+   . It supports the whole life insurance life cycle, from new business through renewal, policy modification, and termination
+
+   . In addition, it offers integrated customer management, document generating, analytics, and reporting solutions.
+
+   . Provide Insurance
+
+   . Process Payments
+
+   . Generate Reports
+
+   . Manage your business
+
+   . Easily Customize
+
+   . Quick to use
+
+   . Secure
+
+Q> What is the process of Guidewire Policy Center ?
+
+A> . Product Design- Create a policy by designing and launching 
+   . Submission Processing - streamline the intake process for insurance submissions
+   . Risk Analysis - Leverage embedded analytics to make more accurate decisions about each risk 
+   . Underwriting and Rating - extracting all credit history, claim history, employment history, criminal history. 
+                               And then checking, whether they would be able to pay premium. Based on the rating the premium would be decided
+   . Quote, Bind, & Issue - policy premium quotation. 
+   . Informed Renewal - policy renewal process
+   ----------------------------------------------------------------------
+   And then, in case of any accident then they are submitting claims to us we follow Guidewire claims and Billing center
+
+Q> What is Guidewire Claims Center?
+
+A> . Resolve claims faster, deliver accurate claim outcomes, exceed customer expectations, and ignite innovation with the P&C industry's most trusted claims management
+     software
+
+   . No matter the complexity, ClaimCenter drives your operational efficiency and enables you to personally support customers through challenges
+
+   . It is a complete software system developed to help file property and Casualty insurance claims
+
+   . It allows insurers to simplify their operations and enhance customer service by offering a single system to handle the claims process,
+     from first loss notification to closing
+
+   . Flow is as below;
+
+     . Claim Intake - Digital claims through portal or mobile app or paper based claims 
+     . Rules-based assignment - efficiently add one or more claims professionals with rule-based segmentation
+     . Effective Evaluation - make smart, data driven decisions throughout the claims lifecycle by leveraging best practices
+     . Reserve and Pay - utilize robust financial management, granular reserves, advance payment capabilities 
+     . Powerful Negotiation - equip claims team with powerful tools to litigate matters on claims and negotiations 
+     . Final Closure - Dynamic business rules ensure all appropriate steps are taken before claim closure  
+
+
+Q> What is  Guidewire Billing Center?
+
+A> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
