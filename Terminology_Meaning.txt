@@ -60,31 +60,14 @@
   Powershell / Command Prompt - On Windows, this is called as Powershell / Command Prompt
 
 >  Hotfix Release : A rapid release of a software patch typically applied to a live system without requiring a restart. 
-                    Hotfixes address critical bugs or security vulnerabilities that require immediate attention. 
+                    Hotfixes address critical bugs or security vulnerabilities that require immediate attention.
+
    Standard Release: A planned release of a software update that includes new features, bug fixes, and security patches.
 
-> System Design concepts:
---------------------------------------------------------------------------------------------------------
+> Business Terminlogy:
+  **************************************************************************************************************************
 
-1. Client server Architecture:
-
-Client (web browser/mobile app) ---> Client sends a Request to (store/retrieve/modify) data
-
-Server (Machine running continiously to handle incoming requests) ---> receives the request, processes it, performs necessary                                                                        operations and sends back a Response
-
-Q) How does the client even know where to find the server?
-
-A) A client needs an address to locate and communicate with it. On Internet, computers identify each other using Ip Addresses (which works like phone numbers for server) 
-
-Every publicly deployed server has a unique Ip Address (something like 34.121.45.67). when a client wants to interact with a service, it must send Request to correct Ip address.
-
-But there is a problem, when we visit a website we dont type Ip address, instead we enter website name. Instead of relying hard to remember Ip addresses, we use much more human friendly (Domain names). Domain names needs a way to map to its corresponding Ip address (algomaster.io -> 34.121.45.67). This is when Domain Name System (DNS) comes in. It maps easy to remember domain names like (algomaster.io -> 34.121.45.67) (google.com -> 192.0.0.88) etc to their corresponding Ip addresses.
-
-When you type algomaster.io into your browser, your computer asks a DNS server for the corresponding Ip address. Once the DNS server responds with the Ip, your browser uses it to establish a connection with the server and make a request .
-
-** You can find Ip address of any domain name using the ping command
-
-2. when you visit a website, your request does not always go directly to the server. Sometimes it passes through a proxy or reverse proxy first. A proxy server acts as a middle man between your device and 
+  1. LOB
 
 
 

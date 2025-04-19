@@ -1,0 +1,43 @@
+> P&C - Property and Casualty
+
+> Quote - refers to an estimated cost of an insurance policy.
+          It's a statement from an insurer or broker outlining the potential premium, coverage options, and other details of a policy,
+          allowing individuals to compare prices and terms before committing to a policy.
+
+> Underwriting - is the process where an insurance company evaluates the risks associated with insuring a particular individual or company.
+                 (by evaluating your crdit history, criminal history, employment hsitory, previous claims..)
+                 This evaluation helps determine whether to accept the application, what the premium should be, and the specific terms and
+                 conditions of the insurance policy.
+
+> Policy Issuance - is the process where an insurer formally approves and creates a policy contract for a policyholder,
+                    following the application process and any necessary underwriting procedures.
+                    This involves creating the policy document and delivering it to the policyholder, marking the formalization of the insurance agreement.
+
+> Endorsements -  also known as a rider, is a formal document that modifies or amends the terms and conditions of an existing insurance policy.
+                  It allows for changes to the policy, such as adding or removing coverage, adjusting the insured amount, or updating personal details,
+                  without needing a completely new policy. Endorsements are legally binding and become part of the insurance agreement once issued and
+                  accepted by the insurance provider.
+
+> Renewal - refers to the process of extending an existing policy's coverage beyond its expiration date.
+            It ensures continuous protection against risks and potential financial losses. Renewal involves paying the renewal premium and, in some cases,
+            may also include a review of coverage and terms to ensure they still meet the policyholder's needs.
+
+> Cancellation - cancellation refers to terminating a policy before its natural expiration or renewal date.
+                 This can be initiated by the policyholder or the insurer under specific conditions.
+                 When a policy is canceled, the insurer will usually refund a portion of the premium for the unused portion of the policy term,
+                 depending on the specific policy terms and cancellation methods. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,7 +2,8 @@
 
 Q> What is Guidewire?
 
-A> The Guidewire is the industry's #1 vendor of customer experience management (CEM) software and a leader in Property and Casualty (P&C).
+A> Guidewire Software, Inc. (GWRE) is a provider of software and data services to the Property and Casualty insurance (P&C) industry. 
+   The company's products cover the three primary operational functions of an insurance provider: Policy, Billings and Claims (these all 3 makes up the Guidewire Insurance Suite)
 
    . Digital product development and management
 
@@ -10,17 +11,40 @@ A> The Guidewire is the industry's #1 vendor of customer experience management (
 
    . Field service management
 
-   . Customer experience management
+   . Customer experience management (CEM)
 
    . Business process management
 
    . Customer Analytics
 
+*** Other Insurance Products : Duckcreek, Majesco, Portals(individual)
+
+Q> What is P&C insurance?
+
+A> Property and Casualty insurance is insurance on homes, cars and business, rather than health or life insurance
+
 Q> What are the basic products for Guidewire?
 
-A> 1. Guidewire Policy Center - creating the policies
-   2. Guidewire Claims Center - for payments/premiums made by client and in case of claims due to accident then company uses claims center
-   3. Guidewire Billing Center - for submission and processing of claims
+A> 1. Guidewire Policy Center (PC) - To create,modify,cancel and renew policies
+   2. Guidewire Claims Center (CC) - process claims to provide to claimants when covered loss occurs
+                                     (for payments/premiums made by client and in case of claims due to accident then company uses claims center)
+   3. Guidewire Billing Center (BC) - Bill policyholders for Policies, Commissions to Producers (for submission and processing of claims)
+
+Q> What is Guidewire Suite?
+
+A> . PC, BC and CC is a web-based Underwriting and policy administration system designed for personal and commercial line carriers in the P&C industry
+
+   . Policy Center - delivers convenient access to agents, streamlines producer relationships, and improves Underwriting risk assessment. (Agents, Underwriters
+                     , Claims Staff, Auditors etc.)
+
+   . Claim Center - is a trusted claims management solution that helps you resolve claims faster, exceed customer expectations, and ignite innovation. (CSR, Agent,
+                    Adjusters, Supervisors etc.)
+   
+   . Billing Center - is an insurance billing system that features prebuilt models and flexible architecture to support existing and future policyholder transactions.
+
+   . Carriers are able to quickly respond to changing business requirements and grow the business in ways current legacy systems cannot
+
+   . Integrations are easily enabled with in Products such as Policy Center, Billing and Claim Center, Contact Manager. 
 
 Q> What is Guidewire Policy center?
 
@@ -80,11 +104,68 @@ A> . Resolve claims faster, deliver accurate claim outcomes, exceed customer exp
 
 Q> What is  Guidewire Billing Center?
 
-A> 
+A> . Better insurance billing software fosters revenue growth and enhances relationships, helping you boost collections and loyalty
+     through guaranteed, regular touchpoints
+   . Billing Center is an insurance billing system that features prebuilt models and flexible architecture to support existing and future 
+     policyholder transactions
+   . It is a complete billing and receivables solution that offers insurers a centralized platform for managing the entire billing and 
+     collection process
+   . It automates the billing process, from policy start to payment posting, and provides a complete set of features to increase client satisfaction
+     and the insurer's bottom line
+   . In addition, it offers robust reporting capabilities for accounts receivable, cash flow, and customer service
 
+Q> Explain Guidewire Project Lifecycle?
 
+A> . Pre-Inception/Inception - Inception planning, define business rules, infrastructure, Project governance, Trainings, Planning sprint, Estimates (PO,DEV,QA,PM,BA)
 
+   . Development - Done by Dev and BA. Define Develop and Unit Test. Demo based on sprint scope.
 
+   . Stabilization - Done by QA. Perform testing (System/E2E, UAT, Performance), Demo.
+
+   . Deployment - Done by Dev - Start with Pilot Deployment till Full Deployment, Migrate Data.
+
+   . Support and Success - Customer Success Program, BAU. Maintenance Upgrades, Learn and Revise done by PO.
+
+Q> What LOB does Guidewire supports?
+
+A> LOB (Line of Business) is a general term that describes the related product or services a business or manufacturer offers.
+
+   Guidewire support below LOB's.
+
+   . Business Auto
+   . Business Owners (BOP)
+   . Commercial Package (includes Commercial Property, Inland Marine, and General Liability)
+   . Commercial Property
+   . General Liability
+   . Inland Marine
+   . Personal Auto
+   . Worker's Compensation
+
+Q> Type of Testing in Guidewire?
+
+A> . Functional Testing (PC)
+      . Product Model
+      . Form Testing
+      . UW Assignments and Rules
+      . Validation Errors
+      . Premium Validations
+      . Ratings using Rate Factors
+      . Guidewire Upgrade
+      . Activities
+
+   . Configuration Testing - configuring the system based on the Product Model
+   
+   . Integration Testing
+      . External Systems - API Testing to verify the response
+      . Internal Systems
+   
+   . Regression Testing
+
+   . Smoke Testing
+
+   . Performance Testing - Need Basis
+
+   . Automation Testing - Need Basis
 
 
 
