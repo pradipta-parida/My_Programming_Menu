@@ -18,6 +18,9 @@
                   without needing a completely new policy. Endorsements are legally binding and become part of the insurance agreement once issued and
                   accepted by the insurance provider.
 
+> Exclusions -  refers to a risk, event, or situation that is specifically not covered by the insurance policy.
+                Essentially, it's a limitation on the policy's coverage, meaning the insurance company won't pay for losses arising from these excluded risks. 
+
 > Renewal - refers to the process of extending an existing policy's coverage beyond its expiration date.
             It ensures continuous protection against risks and potential financial losses. Renewal involves paying the renewal premium and, in some cases,
             may also include a review of coverage and terms to ensure they still meet the policyholder's needs.
@@ -25,12 +28,82 @@
 > Cancellation - cancellation refers to terminating a policy before its natural expiration or renewal date.
                  This can be initiated by the policyholder or the insurer under specific conditions.
                  When a policy is canceled, the insurer will usually refund a portion of the premium for the unused portion of the policy term,
-                 depending on the specific policy terms and cancellation methods. 
+                 depending on the specific policy terms and cancellation methods.
 
+> Insurance - an arrangement by which a company or the state undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a specified premium.
 
+> Property Insurance - protects your physical assets, like buildings, equipment, and personal belongings, against financial loss due to damage or destruction caused by various risks, such as fire, theft, or natural disasters.
+                       It compensates for the cost of repairing or replacing the insured property, offering financial security to the policyholder. 
 
+> Liability Insuarnce - provides financial protection to individuals and businesses against claims or lawsuits from third parties for damages, injuries, or losses caused by their actions or negligence. It covers legal fees, medical expenses, and other costs associated with being held responsible for someone else's harm. In essence, it helps cover the costs when you are found legally liable for causing damage or injury to others. 
 
+> Insured -  is the person, entity, or thing that is covered under a policy, meaning they are the recipient of the financial protection or benefit if a covered loss occurs.
+             The insured pays premiums to the insurer in exchange for this protection.
 
+> Insurer - is the company or entity that provides insurance coverage and promises to pay claims in the event of an insured event.
+            They collect premiums from policyholders in exchange for this promise, and they are responsible for managing the risk associated with the insurance policy. 
+
+> Policy - is a written contract between an insurance company (insurer) and an individual, business, or entity (insured) that outlines the terms, conditions, and coverage for a specific risk.
+           It's a legal document that defines what is covered, who is insured, and the circumstances under which the insurer will provide financial protection or compensation. 
+
+> Risk - refers to the possibility of a loss or negative event occurring for which an insurance company provides coverage.
+         It's the chance of an adverse event happening that could lead to financial harm or other detrimental consequences.
+         Insurance companies assess and manage risk to determine premium rates, policy terms, and whether to offer coverage at all
+
+> Hazard - is a condition or situation that increases the likelihood or severity of a loss.
+           It's a factor that makes a peril (the cause of loss) more likely to occur or increase the damage it causes. 
+
+Types of Hazards:-
+
+Physical Hazards:
+These are physical conditions that increase the possibility of loss, such as a poorly maintained building or a faulty electrical system. 
+
+Moral Hazards:
+These arise from the dishonest or careless behavior of the policyholder, who might take risks knowing they are insured and someone else will cover the loss. 
+
+Morale Hazards:
+These are related to a lack of care or indifference on the part of the insured, believing they are protected and thus acting carelessly. 
+
+Examples:
+A swimming pool on a property could be a hazard, increasing the risk of accidents. 
+A policyholder driving recklessly knowing they have car insurance is an example of moral hazard. 
+Smoking in bed, despite having fire insurance, is an example of a morale hazard. 
+
+> Perils - refers to the specific event or hazard that can cause damage or loss, as defined in the policy.
+           It's the direct cause of a loss, like fire, flood, or theft, 
+           for example. Perils are essentially the risks an insurance policy is designed to protect against. 
+
+Direct Cause of Loss:
+A peril is the immediate event that triggers a loss covered by the insurance policy. 
+Examples:
+Common perils include fire, flood, theft, windstorm, hail, and even things like explosion or falling objects. 
+Policy Coverage:
+Insurance policies outline specific perils they cover, and a policy may be designed to cover all perils except those specifically excluded (often referred to as "all perils" coverage) or may only cover certain named perils. 
+Distinction from Hazard:
+While a peril is the cause of a loss, a hazard is something that increases the likelihood of a peril occurring. For example, a poorly maintained electrical system could be a hazard, increasing the chance of a fire peril. 
+"Named Perils" vs. "All Perils":
+Some policies list the specific perils they cover (named perils), while others provide broader coverage against most perils except those specifically excluded (all perils),
+
+> Deductible - is the fixed amount of money a policyholder must pay out of pocket before their insurance coverage begins to cover expenses.
+               It essentially represents the portion of a claim the policyholder is responsible for before the insurance company starts paying.  
+
+> Indemnify - to provide compensation or make someone whole for a loss or damage they have suffered.
+              It essentially involves one party (the insurer) agreeing to reimburse another party (the insured) for a specific loss or damage covered by the insurance policy.
+              The principle of indemnity is a core concept in insurance, ensuring that the insured is not left financially worse off after a covered event. 
+
+              Example: If someone has a car accident and their car is damaged, the insurance company will indemnify them by covering the cost of repairs, up to the policy's limits
+
+> Declaration - is a statement or document containing factual information about the policyholder, the insured property or items, and other key details of the policy.
+                It's essentially the first page or pages of an insurance policy that outlines the specifics of the coverage.
+
+                 Key Components of a Declaration:
+                Policyholder Information: Name, address, and contact details.
+                Insured Property/Items: Description, location, and value.
+                Policy Details: Start and end dates, coverage type, and any specific exclusions or limitations.
+                Premium and Payment Information: Amount of the premium and payment schedule.
+                Other Relevant Information: Any specific conditions or endorsements related to the policy.
+
+> 
 
 
 
