@@ -4,4 +4,40 @@
 
 > cd <directory_name> = change current directory (so we naviagte to a different directory)
 
+> ls = List command to display the contents of a directory (show files and subdirectories in the current directory)
+
+> ls -l = Long listing format (show file details like permissions, owners, size and modification date)
+
+> cat <file_name> = Displays file contents (It reads one or multiple files and prints their content to the terminal)
+
+> cat file1.txt file2.txt > merged.txt = Concatenate two files (you can also concatenate (join) multiple files into a new file)
+
+> | = "Pipe" command is used to pass the output of one command as input to another. It allows you to chain multiple commands together
+
+> grep = stands for Global Regular Expression Print (Used to search for text patterns in files or output. It filters and displays lines that match a specific string or pattern)
+           e.g;   cat error.log | grep Database
+
+> Lets save the filtered output into a new file 
+  error.log ---filter & output ---> new file ---save---> database_errors.txt
+
+>   > = Redirection (Redirect the output of a command to a file)
+
+  e.g; cat error.log | grep Database > database_errors.txt
+
+    To validate if the new file got created do, ls command
 > 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
