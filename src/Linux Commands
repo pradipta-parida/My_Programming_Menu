@@ -1,0 +1,7 @@
+> uname = prints basic info about the operating system name and system hardware (by default, prints the Opearting ssytem)
+
+> pwd = print working directory
+
+> cd <directory_name> = change current directory (so we naviagte to a different directory)
+
+> 
